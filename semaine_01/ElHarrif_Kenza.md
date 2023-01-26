@@ -1,10 +1,14 @@
 # Kenza El Harrif
-![photo de moi]()
+![photo de moi](moi.png)
 
-Photo prise devant l'oeuvre *Bilateral Time Slicer* de Rafael Lozano-Hemmer, BIAN, janvier 2023
+Photo prise à la maison, le jour de l'an avec Lilo la Fox Terrier.
 
 ## Intérêts dans le domaine du multimédia
 
-## Ce que j'aime d'enseigner la muséologie en TIM
+J'aime beaucoup les jeux vidéos et tout ce qui consiste en création de sites web et publicités. Mais je suis tout autant intéressé aux installations et je suis ouverte à tout. Qui sait, peut-être ce que je découvrirai m'intéressera beaucoup plus.
+
+## Intérêts dans la vie
+
+J'aime beaucoup les chiens (voir Lilo dans la photo du dessous)
 
 ![photo de moi]()
