@@ -33,7 +33,7 @@ Composantes techniques: Les robes en tant que telles sont des composantes à dé
 
 Expérience vécue: s'était très amusant de voir comment les robes bougeaient et aussi hypnotisant de voir les tissus bouger. C'est aussi surprenant de voir qu'il est possible de faire porter une telle robe et aussi d'arriver à faire bouger les tissus.
 
-Ce qui m'a plus: Toutes les oeuvres plus contemplatives étaient intéressentes à regarder. L'oeuvre qui m'as plus le plus était Cloud-Face Real Time, une oeuvre qui montre des visages formés par des nuages qu'une Intelligence Artificielle a pris en photo. S'était vraiment relaxant à regarder à comparer à certaines oeuvres très bruyantes.
+Ce qui m'a plus: La première robe de Ying Gao qui a un tissus un peu plus léger et dont le tissus bouge était très belle et donnait beaucoup d'inspirations, surtout qu'elle s'est inspirée d'habits plus virtuels, ça inspire à la création de personnages fictifs et de jeux vidéos.
 
-Ce qui ne m'a pas plus: L'oeuvre de Ying Gao était très bruillante et donc j'imagine qu'on n'est pas encore proche d'avoir un tel genre de robe portable en publique. Mais aussi dans le musé complet toutes les oeuvres faisant du bruit étaient très bruillante et tous les sons se mélangeaient. Je crois que si je créais une oeuvre numérique contemplative, elle serait un peu plus silencieuse, sinon le son ne serait pas trop fort ou dérengeant.
+Ce qui ne m'a pas plus: L'oeuvre de Ying Gao était très bruillante et donc j'imagine qu'on n'est pas encore proche d'avoir un tel genre de robe portable en publique. Je crois que si je créerais une oeuvre numérique contemplative, elle serait un peu plus silencieuse, sinon le son ne serait pas trop fort ou dérengeant, le son ne serait pas aussi distraillant et n'attirerait pas l'attention du sujet principale de l'oeuvre.
 
