@@ -40,4 +40,8 @@ L'exposition Mutation est de type **itinérante**, donc elle passe d'un musé à
 
 ## Ce qui a été appricié
 
+Toutes les oeuvres étaient toutes autant originales les unes que les autres. Celle de Ying Gao, les deux robes choisi pour cette fiche, est l'oeuvre que j'ai trouvé la plus intriguante. Il était très impressionnant de voir qu'il est possible de faire bouger des tissus à l'aide de mécanismes.
+
 ## Ce qui aurait pu être changé
+
+La seule chose que je n'ai pas aimée était le bruit très distrayant des robes. Il est certain que les robes sont plus visuelles et attirent déjà l'attention avec les mouvements de leurs composantes. Mais les mécanismes étaient très bruillants et dérengeant lorsqu'ils se mettaient en action et faisaient bouger les tissus. Je trouve que ça gâche un peu la magie de l'oeuvre. Mais aussi, je peu comprendre que le but de l'oeuvre reste interactive et numérique et que nous ne sommes pas encore rendus à avoir une technologie moins lourde et moins bruillante.
