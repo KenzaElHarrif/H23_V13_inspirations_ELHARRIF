@@ -1,4 +1,4 @@
-## 2526
+# 2526
 
 Cette oeuvre de l'artiste Ying Gao compose deux robes dites polymorphes dont les tissus ou les éléments décoratifs sont **interactifs** et bougent selon leur environnement.
 
