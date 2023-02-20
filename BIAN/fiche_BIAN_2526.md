@@ -1,4 +1,5 @@
 # 2526
+<img width="45%" heigth="45%" align="right" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/BIAN/medias/BIAN_Ying-Gao_2526_oeuvre.jpg">
 
 Cette oeuvre de l'artiste Ying Gao compose deux robes dites polymorphes dont les tissus ou les éléments décoratifs sont **interactifs** et bougent selon leur environnement.
 
