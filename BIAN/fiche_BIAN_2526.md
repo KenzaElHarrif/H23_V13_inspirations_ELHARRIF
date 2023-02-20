@@ -3,8 +3,9 @@
 
 Cette oeuvre de l'artiste Ying Gao compose deux robes dites polymorphes dont les tissus ou les éléments décoratifs sont **interactifs** et bougent selon leur environnement.
 
-La première robe a un tissus frippé transparent avec des motifs de cadrié roses et beiges. Son tissus bouge à l'aide d'un mécanisme technologique caché en dessous de celui-ci.
-La deuxième robe a un tissus frippé, elle parait aussi légèrement transparente et a des tons roses et argentés. Elle a pour décoration ce qui ressemble à être quatre grosses coquilles souples et épaisses qui bougent comme si elles respiraient. Le mécanisme semblerait être caché sous les tissus et les coquilles.
+- La première robe a un tissus frippé transparent avec des motifs de cadrié roses et beiges. Son tissus bouge à l'aide d'un mécanisme technologique caché en dessous de celui-ci.
+
+- La deuxième robe a un tissus frippé, elle parait aussi légèrement transparente et a des tons roses et argentés. Elle a pour décoration ce qui ressemble à être quatre grosses coquilles souples et épaisses qui bougent comme si elles respiraient. Le mécanisme semblerait être caché sous les tissus et les coquilles.
 
 Ces deux robes ont été créées en 2022 et les principales sources d'inspirations étaient les NFT, la mode numérique et le vêtement virtuel. Justement, les mouvements des robes simulent ces mouvements que l'on retrouve dans la mode virtuelle.
 
