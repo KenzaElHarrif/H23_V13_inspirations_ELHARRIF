@@ -34,6 +34,8 @@ Ying Gao, né en 1973 en Chine, est une *fashion designer* qui travaille à Mont
 
 # Expérience vécue
 
+<img width="35%" height="35%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/BIAN/medias/BIAN_affiche_23-02-02.jpg">
+
 ## Mutation - Bian 6
 
 L'exposition Mutation est de type **itinérante**, donc elle passe d'un musé à l'autre et les oeuvres sont de passage seulement. Dans le cas de **l'Arsenal** situé au **2020 William, Montréal Qc**, les oeuvres ont été exposées **du 1 décembre 2022 jusqu'au 5 février 2023**, dont ma visite le **2 février 2023**. L'exposition a pour but de montrer diverses oeuvres au thèmes numériques. On y incorpore la notion de la mutation du numérique dans tous les domaines.
