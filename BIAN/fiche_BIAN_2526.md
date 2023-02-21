@@ -11,12 +11,12 @@ Ces deux robes ont été créées en 2022 et les principales sources d'inspirati
 
 ## Mise en espace
 
+<img width="23%" heigth="23%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/BIAN/croquis/BIAN_croquis_2526.jpg">
+<img width="23%" heigth="23%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/BIAN/medias/BIAN_YingGao_2526-gauche_23-02-02.jpg">
+<img width="23%" heigth="23%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/BIAN/medias/BIAN_YingGao_2526-droit_23-02-02.jpg">
+<img width="23%" heigth="23%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/BIAN/medias/BIAN_YingGao_2526-ensemble_23-02-02.jpg">
 
-<img width="30%" heigth="30%" align="right" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/BIAN/medias/BIAN_YingGao_2526-gauche_23-02-02.jpg">
-<img width="40%" heigth="40%" align="right" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/BIAN/croquis/BIAN_croquis_2526.jpg">
-<img width="30%" heigth="30%" align="right" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/BIAN/medias/BIAN_YingGao_2526-droit_23-02-02.jpg">
 <br>
-<img width="30%" heigth="30%" align="right" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/BIAN/medias/BIAN_YingGao_2526-ensemble_23-02-02.jpg">
 
 Les deux robes sont positionnées en diagonale. La première, celle avec des carreaux roses et beiges, est mise un peu plus à l'avant vers les visiteurs. La deuxème, celle rosée et argentée, est positionnée plus proche du mur. Les deux font faces aux visiteurs afin de montrer l'attraction principale qui est le mouvement des tissus et des décorations.
 
@@ -25,6 +25,8 @@ Les fils électrique liés aux mécanismes ne sont pas cachés, ils sont seuleme
 À côté des robes, sur le mur noir, un écran diffuse une vidéo donnant au visiteur plus d'informations sur les robes tout en montrant le mouvement de celles-ci. Puis à côté de l'écran se trouve le cartel avec les informations nécessaires disposés à l'intérêt du visiteur.
 
 ## Techniques et composantes
+
+<img width="41%" heigth="41%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/BIAN/medias/BIAN_YingGao_2526-cartel_23-02-02.jpg">
 
 Il est certain que l'oeuvre en tant que telle est une composante importante qui doit être déplacée avec soin puisque les tissus en son fragile. De ce fet, la robe est composée de différents matériaux dont de l'organdi, du verre et du silicone. Mais aussi, inscrit sur le cartel, les robes ont été créées avec des composantes électroniques qui elles aussi ont dus être transportées avec soin. 
 
@@ -69,11 +71,21 @@ L'exposition Mutation est de type **itinérante**, donc elle passe d'un musé à
 
 ## Ce qui a été appricié
 
+<img width="30%" height="30%" align="right" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/BIAN/medias/BIAN_moi_Arsenal_23-02-02.jpg">
+
 Toutes les oeuvres étaient toutes autant originales les unes que les autres. Celle de Ying Gao, les deux robes choisi pour cette fiche, est l'oeuvre que j'ai trouvé la plus intriguante. Il était très impressionnant de voir qu'il est possible de faire bouger des tissus à l'aide de mécanismes.
 
 ## Ce qui aurait pu être changé
 
 La seule chose que je n'ai pas aimée était le bruit très distrayant des robes. Il est certain que les robes sont plus visuelles et attirent déjà l'attention avec les mouvements de leurs composantes. Mais les mécanismes étaient très bruillants et dérengeant lorsqu'ils se mettaient en action et faisaient bouger les tissus. Je trouve que ça gâche un peu la magie de l'oeuvre. Mais aussi, je peu comprendre que le but de l'oeuvre reste interactive et numérique et que nous ne sommes pas encore rendus à avoir une technologie moins lourde et moins bruillante.
 
+# Sources
 
-(reste à rajouter les images, croquis et sources.)
+Attention, certains liens ne sont pas sécurisés.
+
+- *2526*, Ying Gao - Designer, 2022, URL: http://yinggao.ca/2526/
+- *Ying Gao*, Ying Gao - Designer, Profile, URL: http://yinggao.ca/info/profile/
+- *ELEKTRA : 6e BIENNALE INTERNATIONALE D'ART NUMÉRIQUE (BIAN)*, Arsenal Contemporary, URL: https://www.arsenalcontemporary.com/mtl/fr/exhib/detail/2022-elektra-6e-biennale
+- Image de Ying Gao trouvée sur le net https://images.app.goo.gl/vwGAUEBupweZQjh58
+- Image de l'affiche de la BIAN trouvée sur le net https://images.app.goo.gl/3qTdP26RHYuAAMtP7
+
