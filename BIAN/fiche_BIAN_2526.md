@@ -15,6 +15,8 @@ Ces deux robes ont été créées en 2022 et les principales sources d'inspirati
 <img width="30%" heigth="30%" align="right" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/BIAN/medias/BIAN_YingGao_2526-gauche_23-02-02.jpg">
 <img width="40%" heigth="40%" align="right" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/BIAN/croquis/BIAN_croquis_2526.jpg">
 <img width="30%" heigth="30%" align="right" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/BIAN/medias/BIAN_YingGao_2526-droit_23-02-02.jpg">
+<br>
+<img width="30%" heigth="30%" align="right" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/BIAN/medias/BIAN_YingGao_2526-ensemble_23-02-02.jpg">
 
 Les deux robes sont positionnées en diagonale. La première, celle avec des carreaux roses et beiges, est mise un peu plus à l'avant vers les visiteurs. La deuxème, celle rosée et argentée, est positionnée plus proche du mur. Les deux font faces aux visiteurs afin de montrer l'attraction principale qui est le mouvement des tissus et des décorations.
 
