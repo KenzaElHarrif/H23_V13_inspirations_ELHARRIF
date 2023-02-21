@@ -11,6 +11,11 @@ Ces deux robes ont été créées en 2022 et les principales sources d'inspirati
 
 ## Mise en espace
 
+
+<img width="30%" heigth="30%" align="right" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/BIAN/medias/BIAN_YingGao_2526-gauche_23-02-02.jpg">
+<img width="40%" heigth="40%" align="right" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/BIAN/croquis/BIAN_croquis_2526.jpg">
+<img width="30%" heigth="30%" align="right" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/BIAN/medias/BIAN_YingGao_2526-droit_23-02-02.jpg">
+
 Les deux robes sont positionnées en diagonale. La première, celle avec des carreaux roses et beiges, est mise un peu plus à l'avant vers les visiteurs. La deuxème, celle rosée et argentée, est positionnée plus proche du mur. Les deux font faces aux visiteurs afin de montrer l'attraction principale qui est le mouvement des tissus et des décorations.
 
 Les fils électrique liés aux mécanismes ne sont pas cachés, ils sont seulement collés au sol avec du rubanc adhésif pour la sécurité. À mon avis, les fils ne sont pas assez imposants pour attirer l'attention des visiteurs, alors il n'est pas nécessaire de les cacher. Il y a du rubanc adhésif sur le sol, formant un carré autour des robes afin de limiter l'espace aux visiteurs pour que ceux-ci évitent de s'approcher trop proche des robes. En plus du collant sur le sol, il y a un carton qui indique toutes informations au besoin pour les visiteurs afin que ceux si ne touchent pas l'oeuvre. Puis, au sol, à côté du pied des mannequins de chacune des robes, il y a de petits cartons avec des signes d'une main afin de montrer qu'il ne faut pas toucher les robes.
@@ -29,10 +34,28 @@ Au contraire des robes, il y a beaucoup d'éléments qui ont été mis en exposi
 
 Une information qui m'a attiré l'attention est celle du titre donné aux robes. Pourquoi s'agit-il de chiffres et non d'un nom donné ? En effet, 2526 est un titre particulier qui signifie le nombre d'heures passés à la création de ces deux robes. Il faut prendre en compte la difficulté pour réussir à créer une telle oeuvre complexe, dont il faut en cacher les composantes mécaniques avec des tissus casis transparents. Il y a plusieurs étapes et défis à traverser dans la création de ces robes. Selon les informations recceuillis, l'artiste a du avoir des difficultés à positionner le tissus avec les composantes mécaniques qui, sans cesse, brisaient le tissus. Alors, il est tout simplement normal que 2526 heures ont été passées à la création de cette robe.
 
+<img width="35%" heigth="35%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/BIAN/medias/BIAN_Ying_Gao_23-02-02.jpg">
+
 ## L'artiste
 
 Ying Gao, né en 1973 en Chine, est une *fashion designer* qui travaille à Montréal et qui est aussi une professeur à l'Université de Québec à Montréal. Elle a créée plusieurs vêtements qui, comme l'oeuvre 2526, sont interactifs et ont un côté futuristique et virtuel.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # Expérience vécue
 
