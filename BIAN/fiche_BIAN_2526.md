@@ -28,7 +28,7 @@ Les fils électrique liés aux mécanismes ne sont pas cachés, ils sont seuleme
 
 <img width="41%" heigth="41%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/BIAN/medias/BIAN_YingGao_2526-cartel_23-02-02.jpg">
 
-Il est certain que l'oeuvre en tant que telle est une composante importante qui doit être déplacée avec soin puisque les tissus en son fragile. De ce fet, la robe est composée de différents matériaux dont de l'organdi, du verre et du silicone. Mais aussi, inscrit sur le cartel, les robes ont été créées avec des composantes électroniques qui elles aussi ont dus être transportées avec soin. 
+Il est certain que **l'oeuvre** en tant que telle est une composante importante qui doit être déplacée avec soin puisque les tissus en sont fragiles. De ce fait, la robe est composée de différents matériaux dont de l'organdi, du verre et du silicone. Mais aussi, inscrit sur le cartel, les robes ont été créées avec des **composantes électroniques**, donc les mécanismes, qui elles aussi ont dus être transportées avec soin. 
 
 ## Mise en exposition
 
