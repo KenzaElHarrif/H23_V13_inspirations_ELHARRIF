@@ -1,9 +1,11 @@
-#Echomarine
+# Echomarine
 
-#Boucler la boucle
+# Boucler la boucle
 
-#Edria
+À changé de titre pour **Nexum.
 
-#Luma Sol
+# Edria
 
-#Zodie Gal
+# Luma Sol
+
+# Zodie Gal
