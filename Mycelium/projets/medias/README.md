@@ -1,1 +1,1 @@
-Les photos prises.
+Toutes les photos compilées ici.
