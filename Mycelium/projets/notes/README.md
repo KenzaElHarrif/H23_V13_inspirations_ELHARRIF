@@ -1,1 +1,1 @@
-Les notes prises durant les visites.
+Voici les notes prises durant les visites.
