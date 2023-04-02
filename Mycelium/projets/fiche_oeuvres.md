@@ -13,7 +13,7 @@ Il s'agit d'une installation interactive composé de 4 murs où des créatures m
 
 ## Lien avec Mycélium
 
-Echomarine a pour but de montrer la beauté des fonds marins et des espèces marines qui sont en voie de disparition. En lien avec Mycelium, il s'agit d'un parcours lumineux  interactif qui démontre un côté moins connu de la nature et les conceptrices emmènent le spectateur à interagir avec cet environnement et ces animaux en voie de disparition.
+Echomarine a pour but de montrer la beauté des fonds marins et des espèces marines qui sont en voie de disparition. En lien avec Mycélium, il s'agit d'une oeuvre lumineuse et interactive qui démontre un côté moins connu de la nature. Les conceptrices emmènent le spectateur à interagir avec cet environnement et ces animaux en voie de disparition.
 
 Images:
 
@@ -21,13 +21,13 @@ Schéma:
 
 ## 3 cours du programme importants
 
-* programmation
-* animation 2d ou 3d
-* installation multimedia
+* Programmation
+* Animation 2d
+* Conception d'une installation multimédia
 
 ## Technologie
 
-VCV Rack 2: Synthétiseur modulaire analogique virtuel. Il s'agit d'une plateforme qui permet à ce qui semble être plusieurs logiciels qui va ensuite permetre de venir modifier des sons.
+VCV Rack 2: Il s'agit d'un synthétiseur modulaire analogique virtuel.En d'autres mots, c'est une plateforme qui permet de venir modifier des sons à l'aide de plusieurs logiciels.
 
 # Edria
 
@@ -42,7 +42,11 @@ VCV Rack 2: Synthétiseur modulaire analogique virtuel. Il s'agit d'une platefor
 
 ## Projet
 
+Nexum est un passage interactif qui traverse le petit parc en avant du Cégep Montmorency. Plusieurs petites tours sont dressés et à chaque fois que l'on passe devant celles-ci, des sons calmes sortes de celles-ci. De plus, il y a quelques codes QR et lorsqu'on les scannes, ceux-ci nous dirigent vers une animation.
+
 ## Lien avec Mycélium
+
+Nexum a pour but de montrer un environement en lien avec la nature et qui donne cet air serain à chaque fois que l'on passe à côté des tours. Ce qui rappel lien avec Mycélium.
 
 Images:
 
@@ -50,7 +54,13 @@ Schéma:
 
 ## 3 cours du programme importants
 
+* Programmation
+* Conceptiuon d'une installation multimédia
+* Objets interactifs
+
 ## Technologie
+
+Le code QR: Le code QR est un code que l'on scan avec l'appareil photo de notre téléphone. Une fois scanné, le code nous enverra un lien sur un site. La plupart du temps les codes QR sont utilisés pour avoir plus d'informations, des fois afin de montrer des oeuvres de réalité augmentée ou pour bien plus de raisons.
 
 # Luma Sol
 
