@@ -24,7 +24,7 @@ technique ou logiciel inconnu:
 
 Sébastien Reilly, Sabrina Laforest, Alexandre Daniel, Maxime Des Lauriers
 
-Lien avec Mycélium: Il s'agit d'un passage à structure interactive qui traverse le parc en avant du collège Montmorency. Nexum a pour but de montrer un environement en lien avec la nature et serain qui suivra son spectateur tout au long.
+Lien avec Mycélium: Il s'agit d'un passage à structure interactive qui traverse le parc en avant du collège Montmorency. Nexum a pour but de montrer un environement en lien avec la nature et qui donne un air serain qui suivra son spectateur tout au long.
 
 *photo à l'appui.
 
