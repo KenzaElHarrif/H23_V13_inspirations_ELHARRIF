@@ -1,1 +1,1 @@
-Les croquis
+Les schémas de chacunes des oeuvres.
