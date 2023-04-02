@@ -1,1 +1,1 @@
-les photographies prises lors des visites.
+Voici les photographies de l'oeuvre choisi.
