@@ -64,8 +64,6 @@ FL Studio: Il s'agit d'un logiciel de production de musique et sons ambiants.
 
 # Luma Sol
 
-Luma sol présente une installation interactive
-
 ## Réalisation
 
 * Éloise Gagné
@@ -75,7 +73,7 @@ Luma sol présente une installation interactive
 
 ## Projet
 
-
+Luma sol est une installation interactive où le spectateur doit pédaler un vélo afin qui l'oeuvre se mette en marche. En pédalant, un arbre s'illumine devant le spectateur et change de couleurs au fur et à mesure que la personne pédale. Accompagné de ce spectacle lumineux, une musique ambiante se fait entendre à partir de *speakers*.
 
 ## Lien avec Mycélium
 
@@ -85,7 +83,13 @@ Schéma:
 
 ## 3 cours du programme importants
 
+* Programmation
+* Audio
+* Conception d'une installation multimédia.
+
 ## Technologie
+
+Madmapper: Il s'agit d'un logiciel qui permet de travailler la vidéo dans l'espace. Cette application est importante pour les installations interactives étant donné qu'elle va controler tout ce qui est en lien aux lumières (LEDS).
 
 # Nexum
 
@@ -126,7 +130,11 @@ Le code QR: Le code QR est un code que l'on scan avec l'appareil photo de notre 
 
 ## Projet
 
+Il s'agit d'un court et simple jeu vidéo où le spectateur doit cliquer sur les éléments déclancheurs afin d'en dévoiler l'histoire. On suit l'histoire d'une adolescante qui, en traversant des moments difficiles, elle doit tuer des monstres du Zodiac.
+
 ## Lien avec Mycélium
+
+Le lien avec Mycélium n'est pas très clair, mais à mon avis, dans plusieurs des images présentés dans l'oeuvre, on retrouve de la végétation et des monstres qui rappellent un peu les différents champignons que l'on retrouve dans la nature.
 
 Images:
 
@@ -134,4 +142,10 @@ Schéma:
 
 ## 3 cours du programme importants
 
+* Programmation
+* Illustration numérique
+* Conception d'une installation multimédia
+
 ## Technologie
+
+G Develop 5: Il s'agit d'une plateforme de développement jeux vidéo open source.
