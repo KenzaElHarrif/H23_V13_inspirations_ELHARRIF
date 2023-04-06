@@ -21,8 +21,9 @@ La salle est composée de 4 murs couverts de rideaux blancs, il y a un Ipas sur 
 * ordinateur/programme
 * 4 projecteurs (un pour chacun des murs)
 * 4 haut-parleurs
-* Lumière LED bleu ou spot de lumière.
-* Trépied à ipad.
+* Lumière LED bleu ou spot de lumière
+* Détecteur de mouvement
+* Trépied à ipad
 * 4 rideaux de douches ou plus (pour les murs)
 * autres composantes (fils, extansions, tape)
 
