@@ -15,14 +15,39 @@ Il s'agit d'une installation interactive composé de 4 murs où des créatures m
 
 Echomarine a pour but de montrer la beauté des fonds marins et des espèces marines qui sont en voie de disparition. En lien avec Mycélium, il s'agit d'une oeuvre lumineuse et interactive qui démontre un côté moins connu de la nature. Les conceptrices emmènent le spectateur à interagir avec cet environnement et ces animaux en voie de disparition.https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/projets/medias/Echomarine_pre_expo2_2023-03-23.png
 
+## Support visuel
+
 <img width="23%" height="23%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/projets/medias/Echomarine_pre_expo2_2023-03-23.png">
 
 <img width="23%" height="23%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/projets/medias/Echomarine_pre_expo_2023-03-23.jpg.png">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## Schéma
 
 <img width="23%" height="23%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/projets/croquis/schema_echomarine.png">
 
 <img width="23%" height="23%" align="left"  src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/projets/croquis/schema_branchement_echomarine.png">
 Schémas tirés du site de TIM Montmorency, URL https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -64,13 +89,17 @@ Edria est une installation interactive et lumineuse. Il s'agit d'une tour qui es
 
 L'installation semble rappeler la dualité entre la société et la nature en y imposant des structures interactives qui intéragissent avec les gens. Le lien avec Mycelium est qu'il s'agit d'un parcour lumineux avec des détails de nature.
 
+## Support visuel
+
 <img width="23%" height="23%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/projets/medias/Edria_pre_expo_2023_03_23.png">
 
 <img width="23%" height="23%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/projets/medias/Edria_pre_expo2_2023_03_23.png">
 
-<img width="23%" height="23%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/projets/medias/Edria_pre_expo3_2023_03_23.png">
+<img width="22%" height="22%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/projets/medias/Edria_pre_expo3_2023_03_23.png">
 
 <img width="23%" height="23%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/projets/medias/Edria_pre_expo4_2023_03_23.png">
+
+## Schéma
 
 <img width="24%" height="24%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/projets/croquis/schema_01_edria.png">
 
@@ -145,22 +174,38 @@ Edria nous a fait agir de manière amusante, nous nous sommes tous rapprochés l
 
 ## Projet
 
-Luma sol est une installation interactive où le spectateur doit pédaler un vélo afin qui l'oeuvre se mette en marche. En pédalant, un arbre s'illumine devant le spectateur et change de couleurs au fur et à mesure que la personne pédale. Accompagné de ce spectacle lumineux, une musique ambiante se fait entendre à partir de *speakers*.
+Luma sol est une installation interactive où le spectateur doit pédaler un vélo afin qui l'oeuvre se mette en marche. En pédalant, un arbre s'illumine devant le spectateur et change de couleurs au fur et à mesure que la personne pédale. Accompagné de ce spectacle lumineux, une musique ambiante se fait entendre à partir des haut-parleurs.
 
 ## Lien avec Mycélium
+
+Ce projet montre l'importance de la nature et l'urgence du changement climatique à travers une installation interactive, donc le spectateur va lui même activer la présentation en pédalant un vélo. Le lien avec Mycelium montre donc, encore une fois, la nature illuminée grâce à une installation technologique et à pour but de faire prendre concience au spectateur des urgences et difficultés en lien avec l'environnement.
+
+## Support visuel
 
 <img width="23%" height="23%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/projets/medias/Luma_Sol_pre_expo1_2023-03-23.jpg.png">
 
 <img width="23%" height="23%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/projets/medias/Luma_Sol_composition_fil_2023-03-23.jpg">
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## Schéma
+
 <img width="23%" height="23%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/projets/croquis/simulation_lumasol.png">
 
 Schéma de simulation tiré du site de TIM Montmorency, URL https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
 
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -211,9 +256,27 @@ Nexum est un passage interactif qui traverse le petit parc en avant du Cégep Mo
 
 Nexum a pour but de montrer un environement en lien avec la nature et qui donne cet air serain à chaque fois que l'on passe à côté des tours. Ce qui rappel lien avec Mycélium.
 
+## Support visuel
+
 <img width="23%" height="23%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/projets/medias/Nexum_pre_expo_2023-03-23.png">
 
 <img width="23%" height="23%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/projets/medias/Nexum_pre_expo2_2023-03-23.png">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## Schéma
 
 <img width="23%" height="23%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/projets/croquis/schema_01_nexum.png">
 
@@ -222,6 +285,9 @@ Nexum a pour but de montrer un environement en lien avec la nature et qui donne 
 <img width="23%" height="23%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/projets/croquis/schema_branchement_nexum.png">
 
 Schéma de simulation tiré du site de TIM Montmorency, URL https://tim-montmorency.com/2023/projets/Nexum/docs/web/preproduction.html
+
+<br>
+<br>
 
 ## 3 cours du programme importants
 
@@ -251,9 +317,30 @@ Il s'agit d'un court et simple jeu vidéo où le spectateur doit cliquer sur les
 
 Le lien avec Mycélium n'est pas très clair, mais à mon avis, dans plusieurs des images présentés dans l'oeuvre, on retrouve de la végétation et des monstres qui rappellent un peu les différents champignons que l'on retrouve dans la nature.
 
-<img width="23%" height="23%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/projets/croquis/plan_technique_01_zodigal.png">
+## Support visuel
 
-<img width="23%" height="23%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/projets/croquis/plan_technique_02_zodigal.png">
+<img width="23%" height="23%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/projets/medias/Zodie_Gal_composition1_2023-03-23.jpg">
+
+<img width="23%" height="23%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/projets/medias/Zodie_Gal_composition2_2023-03-23.jpg">
+
+<img width="23%" height="23%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/projets/medias/Zodie_Gal_mise_espace_2023-03-23.jpg">
+
+<img width="23%" height="23%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/projets/medias/Zodie_Gal_mise_espace2_2023-03-23.jpg">
+
+
+## Schéma
+
+<img width="30%" height="30%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/projets/croquis/plan_technique_01_zodigal.png">
+
+<img width="30%" height="30%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/projets/croquis/plan_technique_02_zodigal.png">
+
+Schéma tiré du site de TIM Montmorency, URL https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/preproduction.html
+
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## 3 cours du programme importants
 
@@ -265,6 +352,8 @@ Le lien avec Mycélium n'est pas très clair, mais à mon avis, dans plusieurs d
 
 G Develop 5: Il s'agit d'une plateforme de développement jeux vidéo open source.
 
-##Expérience
+## Expérience
 
-<img width="23%" height="23%" align="left" src="">
+La musique était très mystérieuse et l'éclairage et la mise en espace aidaient à rentrer dans l'ambiance du jeu. Par contre, il n'était pas très clair au départ comment le jeu fonctionnait, on cliquait un peu partout afin de trouver la solution au mystère.
+
+<img width="23%" height="23%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/projets/medias/Zodie_Gal_vue_ensemble1_2023-03-23.jpg">
