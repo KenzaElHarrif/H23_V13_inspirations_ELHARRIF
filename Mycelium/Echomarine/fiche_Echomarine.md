@@ -6,14 +6,53 @@ L'exposition **Mycelium** est une exposition **temporaire** qui comprend plusieu
 
 L'exposition est présenté au Collège Montmorency, 475 Bd de l'Avenir le 23 mars.
 
+<img width="30%" height="30%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/Echomarine/medias/Mycelium_cartel2.jpg">
+
+<img width="30%" height="30%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/Echomarine/medias/Mycelium_cartel.jpg">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Oeuvre Echomarine
 
 **Echomarine** a été créée par les finissantes **Florence Lapierre, Natacha Abdallah, Tracy Gua et Maria Laura Coronel** au courant de l'année **2022 et 2023**.
 Il s'agit d'une oeuvre de type **interactive et immersive** qui a pour but de montrer les différentes espèces marines en voie d'exctinction. En cliquant leurs images respectives sur l'ipad, des projecteurs affichent sur 4 murs des animations de ces animaux marins, ce qui incite la participation du spectateur.
 
+*Vues d'ensemble de l'oeuvre et interactions:* https://youtu.be/VI3lG9Mg9D8 + https://youtube.com/shorts/gy3MdHDrB0c
+
 ## Mise en espace
 
 La salle est composée de 4 murs couverts de rideaux blancs, il y a un Ipas sur un trépied au centre de la pièce. Des projecteurs sont installés au plafond, ainsi que des haut-parleurs installés dans chaque coins de la pièce. Il y a aussi une lumière bleue installée au dessus du trépied à Ipad, au plafond.
+<br>
+
+
+<img width="30%" height="30%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/Echomarine/croquis/Echomarine_croquis.jpg">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 ## Composantes
 
@@ -26,6 +65,21 @@ La salle est composée de 4 murs couverts de rideaux blancs, il y a un Ipas sur 
 * Trépied à ipad
 * 4 rideaux de douches ou plus (pour les murs)
 * autres composantes (fils, extansions, tape)
+
+<img width="30%" height="30%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/Echomarine/medias/Echomarine_composition1_2023-03-23.jpg">
+
+<img width="30%" height="30%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/Echomarine/medias/Echomarine_composition_sono_2023-03-23.jpg">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Expérience
 
