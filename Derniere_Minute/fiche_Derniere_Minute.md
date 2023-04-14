@@ -5,21 +5,18 @@
 **Dernière Minute** est une oeuvre qui a été présenté au **Centre Phi**, précisément au **315 Rue Saint-Paul O, Montréal, QC H2Y 2A3**.
 Il s'agit d'une oeuvre de **type itinérante** et dont j'ai eu la chance d'en faire l'expérience le **25 février 2023**.
 
-* affiche
-* moi devant centre phi
-
 <img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Derniere_Minute/Medias/Derniere_Minute_affiche.JPG" height="40%" width="40%" align="left">
 
-<img src="" height="40%" width="40%">
+<img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Derniere_Minute/Medias/Derniere_Minute_Centre_Phi_moi.JPG" height="45%" width="45%">
 
 
-## Oeuvre Dernière Minute
+## L'oeuvre
 
-* photo oeuvre vue ensemble
+<img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Derniere_Minute/Medias/Derniere_Minute_Centre_Phi_vue_ensemble.JPG" height="80%" width="80%">
 
-<img src="" height="" width="">
+<img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Derniere_Minute/Medias/AdirenM_ClaireB_artistes.JPG" height="50%" width="50%" align="left">
 
-L'oeuvre a été créée par la compagnie **Adrien M & Claire B**. Cette compagnie à été fondée par les deux artistes Adrien Mondot et Claire Bardainne. L'oeuvre à donc été créée par différentes personnes de différent domaines, dont des producteurs, concepteurs artistiques, techniciens et concepteurs sonores.
+L'oeuvre **Dernière Minute** a été créée par la compagnie **Adrien M & Claire B**. Cette compagnie à été fondée par les deux artistes Adrien Mondot et Claire Bardainne. L'oeuvre à donc été créée par différentes personnes de différent domaines, dont des producteurs, concepteurs artistiques, techniciens et concepteurs sonores.
 
 L'oeuvre a été créée le **4 main 2022** à la Halle Tropisme Montpellier (34)
 
@@ -30,13 +27,15 @@ On se retrouve dans une pièce complètement fermé, dans le noir, avec un écra
 * cartel
 * vues d'ensembles ou vidéos
 
-<img src="" height="" width="">
+<img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Derniere_Minute/Medias/Derniere_Minute_cartel_01.JPG" height="30%" width="30%" align="left">
 
-<img src="" height="" width="">
+<img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Derniere_Minute/Medias/Derniere_Minute_cartel_02.JPG" height="30%" width="30%" align="left">
 
-<img src="" height="" width="">
+<img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Derniere_Minute/Medias/Derniere_Minute_cartel_03.JPG" height="30%" width="30%" align="left">
 
-<img src="" height="" width="">
+<br>
+<br>
+<br>
 
 ## Mise en espace
 
@@ -82,3 +81,7 @@ On pouvait se promener partout, toucher, se coucher et s'asseoir au sol, par con
 * Ce que j'ai aimé: J'ai adoré l'aspect d'interaction, ça inspire beaucoup aux artistes à faire de même. S'était amusant de voir les gens autour intéragirs différements. Certains s'allongeaient, couraient, sautaient. L'oeuvre ainsitait vraiment tout le monde à faire ce qu'ils voulaient. Il y avait même une personne qui s'était mise à danser juste parce que ça l'inspirait. Je me suis contantée seulement de marcher autour et d'observer les réactions des autres pour ma part. L'oeuvre donnait l'impression qu´à ce moment là, tout le monde avait quelque chose d´en commun et s´était d´être coincé dans un petit monde entre la vie et la mort. s´était très inspirant. S'était aussi très intéressant de voir comment les artistes pouvaient varier plusieurs interactions avec leurs différents graphiques.
 
 * Ce que j'ai moins aimé:  À certains moments, il n'était pas clair si on pouvait intéragir avec le sol ou s'il ne s'agissait que d'un moment de projection. À plusieurs reprises, il y avait des particules qui bougeaient au sol et sur les murs, et parfois, même si ce n'était pas clair, quelqu'un bougeait et ces particules suivaient la personne. Mais aussi, des fois ces particules ne bougeaient pas du tout et s'était un peu ennuyeux de bouger et essayer d'interagir avec quelque chose qui ne répondait pas.
+
+## Sources
+
+photos non moi = photo prises du site de centre phi
