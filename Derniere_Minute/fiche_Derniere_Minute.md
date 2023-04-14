@@ -2,23 +2,37 @@
 
 ## Exposition
 
-Présenté au **Centre Phi**, 315 Rue Saint-Paul O, Montréal, QC H2Y 2A3, le **25 février 2023**, l'exposition **Dernière Minute** est une projection interactive de 30 minutes. Cette oeuvre est de **type itinérante**.
+**Dernière Minute** est une oeuvre qui a été présenté au **Centre Phi**, précisément au **315 Rue Saint-Paul O, Montréal, QC H2Y 2A3**.
+Il s'agit d'une oeuvre de **type itinérante** et dont j'ai eu la chance d'en faire l'expérience le **25 février 2023**.
+
+* affiche
+* moi devant centre phi
 
 
 ## Oeuvre Dernière Minute
 
-Les deux principaux artistes derrière cette oeuvre sont **Adrien M et Claire B.** Mais, plusieurs autres personnes ont participés à la création de l'oeuvre interactive dont des techniciens, des programmeurs et monteurs. L'oeuvre a été créée le **4 mai 2022** à la Halle Tropisme Montpellier (34)
+* photo oeuvre vue ensemble
 
+L'oeuvre a été créée par la compagnie **Adrien M & Claire B**. Cette compagnie à été fondée par les deux artistes Adrien Mondot et Claire Bardainne. L'oeuvre à donc été créée par différentes personnes de différent domaines, dont des producteurs, concepteurs artistiques, techniciens et concepteurs sonores.
 
-Dernière Minute est une installation interactive présenté en projection et où l´on peu interagir de temps à autre avec le sol et les murs. On y ressent une expérience symbolique, comme si s´était notre première minute de vie ou notre dernière. Cette oeuvre représente à travers ses effets graphiques de particules, de lignes et de fumée, le tout en noir et blanc, la vie, la mort et son monde d'entre deux. Le tout est appuyé d'une musique avant-gardiste composée de bruits de respirations, de soupirs, de bruits mécaniques en rappel un genre techno.
+L'oeuvre a été créée le **4 main 2022** à la Halle Tropisme Montpellier (34)
+
+Dernière Minute est une **installation interactive** d'une durée de 30 minutes qui a pour but symbolique de représenter les premiers et derniers instants d'une vie.
+
+On se retrouve dans une pièce complètement fermé, dans le noir, avec un écran au centre. Au départ, une voix nous dit des choses à propos de la vie, elle est toute douce, puis les animations commencent. On peu interagir avec des particules blanches, des trainées de fumées et des lignes qui bougent au son de la musique. On peu marcher, courir, danser, s'asseoir et se coucher au sol. Le tout est appuyé d'une musique avant-gardiste composée de bruits de respirations, de soupirs, de bruits mécaniques, ainsi dit en rappel à un genre techno. L'oeuvre est comme un monde entre la vie et la mort. On est dans le noir et on interagit avec un environnement aucunnement naturel.
+
+* cartel
+* vues d'ensembles ou vidéos
 
 ## Mise en espace
 
 Il s'agit d'une grande pièce dont les murs sont cachés par des rideaux. Le sol est en tapis gris et confortable pour les gens qui veulent s'asseoir et interagir avec les graphiques. Au centre droit à partir de l'entrée, un écran semi transparent est accroché depuis le plafond et on y projète les images de l'oeuvre. Il y a des projecteurs sur les plafons ainsi que des haut-parleurs dans chacun des coins de la pièce.
 
+* Croquis
+
 ## Composantes
 
-Il doit surement seulement s'agir de la vidéo et du son de la projection, du logiciel et programme qui permettent de faire en sorte que l'oeuvre intéragie avec les gens. Sois l'oeuvre est arrivée avec une clé usb ou disque ssd, sinon peut être qu'elle serait même arrivée déjà installée dans l'ordinateur qui la génère.
+Il doit surement seulement s'agir de la vidéo et du son de la projection, du logiciel et programme qui permettent de faire en sorte que l'oeuvre intéragie avec les gens. Sois l'oeuvre est arrivée avec une clé usb ou disque ssd, sinon peut être qu'elle serait même arrivée déjà installée dans l'ordinateur qui sera ensuite lié aux projecteurs du musé.
 
 ## Éléments de mise en exposition
 
@@ -31,9 +45,13 @@ Il doit surement seulement s'agir de la vidéo et du son de la projection, du lo
 * Détecteur de mouvement
 * Tout le reste qui aide au support des projecteurs et à la sono
 
+**rajouter images au besoin**
+
 ## Expérience
 
 On pouvait se promener partout, toucher, se coucher et s'asseoir au sol, par contre on ne devait pas toucher l'écran du milieu. Ce fut intéressant de voir les différentes réactions des spectateurs, certains s'étaient mis à danser. S'était amusant et étourdissant de voir autant de détails bouger autour de nous et sous nos pieds. On en perd un peu notre sens d'orientation lorsqu'on se met à fixer le sol. Le son était fort, mais ça n'était pas désagréable étant donné que la salle n'avait pas d'écho et que la musique appuyait bien l'oeuvre.
+
+* lien à la vidéo
 
 ## Appréciations
 
