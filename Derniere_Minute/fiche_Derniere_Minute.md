@@ -8,10 +8,16 @@ Il s'agit d'une oeuvre de **type itinérante** et dont j'ai eu la chance d'en fa
 * affiche
 * moi devant centre phi
 
+<img src="" height="40%" width="40%">
+
+<img src="" height="40%" width="40%">
+
 
 ## Oeuvre Dernière Minute
 
 * photo oeuvre vue ensemble
+
+<img src="" height="" width="">
 
 L'oeuvre a été créée par la compagnie **Adrien M & Claire B**. Cette compagnie à été fondée par les deux artistes Adrien Mondot et Claire Bardainne. L'oeuvre à donc été créée par différentes personnes de différent domaines, dont des producteurs, concepteurs artistiques, techniciens et concepteurs sonores.
 
@@ -24,11 +30,19 @@ On se retrouve dans une pièce complètement fermé, dans le noir, avec un écra
 * cartel
 * vues d'ensembles ou vidéos
 
+<img src="" height="" width="">
+
+<img src="" height="" width="">
+
+<img src="" height="" width="">
+
+<img src="" height="" width="">
+
 ## Mise en espace
 
 Il s'agit d'une grande pièce dont les murs sont cachés par des rideaux. Le sol est en tapis gris et confortable pour les gens qui veulent s'asseoir et interagir avec les graphiques. Au centre droit à partir de l'entrée, un écran semi transparent est accroché depuis le plafond et on y projète les images de l'oeuvre. Il y a des projecteurs sur les plafons ainsi que des haut-parleurs dans chacun des coins de la pièce.
 
-* Croquis
+<img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Derniere_Minute/croquis/Derniere_Minute_croquis.jpg" height="" width="">
 
 ## Composantes
 
@@ -44,6 +58,16 @@ Il doit surement seulement s'agir de la vidéo et du son de la projection, du lo
 * Les 4 haut-parleurs
 * Détecteur de mouvement
 * Tout le reste qui aide au support des projecteurs et à la sono
+
+<img src="" height="" width="">
+
+<img src="" height="" width="">
+
+<img src="" height="" width="">
+
+<img src="" height="" width="">
+
+<img src="" height="" width="">
 
 **rajouter images au besoin**
 
