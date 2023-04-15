@@ -41,7 +41,7 @@ Lorsque l'on rentre dans la pièce, le titre de l'oeuvre est affichée sur le mu
 
 <img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/Echomarine/medias/Echomarine_interaction_web.png" height="35%" width="35%" align="left">
 
-<img src="" height="35%" width="35%" align="left">
+<img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/Echomarine/medias/Echomarine_vue_ensemble2_03_23_23.png" height="35%" width="35%" align="left">
 
 <img src="" height="35%" width="35%" align="left">
 
