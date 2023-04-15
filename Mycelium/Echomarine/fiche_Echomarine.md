@@ -83,8 +83,6 @@ Si l'oeuvre devait voyager, c'est par clé USB ou disque SSD externe que serait 
 
 <img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/Echomarine/medias/Echomarine_montage_sonore.png" height="35%" width="35%" align="left">
 
-<img src="" height="35%" width="35%" align="left">
-
 
 
 
