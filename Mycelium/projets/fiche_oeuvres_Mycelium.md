@@ -13,7 +13,7 @@ Il s'agit d'une installation interactive composé de 4 murs où des créatures m
 
 ## Lien avec Mycélium
 
-Echomarine a pour but de montrer la beauté des fonds marins et des espèces marines qui sont en voie de disparition. En lien avec Mycélium, il s'agit d'une oeuvre lumineuse et interactive qui démontre un côté moins connu de la nature. Les conceptrices emmènent le spectateur à interagir avec cet environnement et ces animaux en voie de disparition.https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/projets/medias/Echomarine_pre_expo2_2023-03-23.png
+Echomarine a pour but de montrer la beauté des fonds marins et des espèces marines qui sont en voie de disparition. En lien avec Mycélium, il s'agit d'une oeuvre lumineuse et interactive qui démontre un côté moins connu de la nature. Les conceptrices emmènent le spectateur à interagir avec cet environnement et ces animaux en voie de disparition.
 
 ## Support visuel
 
@@ -40,7 +40,8 @@ Echomarine a pour but de montrer la beauté des fonds marins et des espèces mar
 <img width="23%" height="23%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/projets/croquis/schema_echomarine.png">
 
 <img width="23%" height="23%" align="left"  src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/projets/croquis/schema_branchement_echomarine.png">
-Schémas tirés du site de TIM Montmorency, URL https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html
+
+Collège Montmorency. (2022) *Projet de Préproductiom Echomarine* .TIM Montmorency. https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html
 
 <br>
 <br>
@@ -113,7 +114,7 @@ L'installation semble rappeler la dualité entre la société et la nature en y 
 
 <img width="23%" height="23%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/projets/croquis/schema_branchement_02_edria.png">
 
-Schémas tirés du site de TIM Montmorency, URL https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.html
+Collège Montmorency. (2022) *Projet de Préproductiom Edria* .TIM Montmorency. https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.html
 
 <br>
 <br>
@@ -204,7 +205,7 @@ Ce projet montre l'importance de la nature et l'urgence du changement climatique
 
 <img width="23%" height="23%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/projets/croquis/simulation_lumasol.png">
 
-Schéma de simulation tiré du site de TIM Montmorency, URL https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
+Collège Montmorency. (2022) *Projet de Préproductiom Luma Sol* .TIM Montmorency. https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
 
 <br>
 <br>
@@ -284,7 +285,7 @@ Nexum a pour but de montrer un environement en lien avec la nature et qui donne 
 
 <img width="23%" height="23%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/projets/croquis/schema_branchement_nexum.png">
 
-Schéma de simulation tiré du site de TIM Montmorency, URL https://tim-montmorency.com/2023/projets/Nexum/docs/web/preproduction.html
+Collège Montmorency. (2022) *Projet de Préproductiom Nexum* .TIM Montmorency. https://tim-montmorency.com/2023/projets/Nexum/docs/web/preproduction.html
 
 <br>
 <br>
@@ -334,7 +335,7 @@ Le lien avec Mycélium n'est pas très clair, mais à mon avis, dans plusieurs d
 
 <img width="30%" height="30%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/projets/croquis/plan_technique_02_zodigal.png">
 
-Schéma tiré du site de TIM Montmorency, URL https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/preproduction.html
+Collège Montmorency. (2022) *Projet de Préproductiom Zodie-Gal* .TIM Montmorency. https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/preproduction.html
 
 <br>
 <br>
@@ -357,3 +358,50 @@ G Develop 5: Il s'agit d'une plateforme de développement jeux vidéo open sourc
 La musique était très mystérieuse et l'éclairage et la mise en espace aidaient à rentrer dans l'ambiance du jeu. Par contre, il n'était pas très clair au départ comment le jeu fonctionnait, on cliquait un peu partout afin de trouver la solution au mystère.
 
 <img width="23%" height="23%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/projets/medias/Zodie_Gal_vue_ensemble1_2023-03-23.jpg">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## Médiagraphie
+
+**Pages de site web:**
+
+* Collège Montmorency. (2022) *Projet de Préproductiom Echomarine* .TIM Montmorency. https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html
+
+* Collège Montmorency. (2022) *Projet de Préproductiom Edria* .TIM Montmorency. https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.html
+
+* Collège Montmorency. (2022) *Projet de Préproductiom Luma Sol* .TIM Montmorency. https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html
+
+* Collège Montmorency. (2022) *Projet de Préproductiom Nexum* .TIM Montmorency. https://tim-montmorency.com/2023/projets/Nexum/docs/web/preproduction.html
+
+* Collège Montmorency. (2022) *Projet de Préproductiom Zodie-Gal* .TIM Montmorency. https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/preproduction.html
+
+**Informations tirés de vidéos:**
+
+* Echomarine 2023. (2023, 03 février) *Echomarine - Préproduction* [Vidéo]. YouTube. https://www.youtube.com/watch?v=aZDAxRJoc40&ab_channel=Echomarine2023
+
+* michael Simard. (2023, 02 février) *video Intention* [Vidéo]. YouTube. https://www.youtube.com/watch?v=xVrJwt6NvOE&ab_channel=michaelSimard
+
+* Nexum. (2023, 06 février) *Nexum-préproduction-explication* [Vidéo]. YouTube. https://www.youtube.com/watch?v=nYPI3L1SCVM&ab_channel=Nexum
+
+* What_the_lock. (2023, 07 février) *Prepro_vfinal* [Vidéo]. YouTube. https://www.youtube.com/watch?v=r4j4EkYkx4s&ab_channel=What_the_lock
+
+* Yarata. (2023, 03 février) *Video-Zodie-Gal* [Vidéo]. YouTube. https://www.youtube.com/watch?v=wxchQYKdTW0&ab_channel=Yarata
+
+* Yarata. (2023, 22 mars) *ZODIE-GAL - LASTVID* [Vidéo]. YouTube. https://www.youtube.com/watch?v=mtOsC0i7Sss&ab_channel=Yarata
+
+
+
+
