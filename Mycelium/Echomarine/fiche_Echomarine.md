@@ -35,15 +35,22 @@ Il s'agit d'une oeuvre de type **interactive et immersive** qui a pour but de mo
 
 Lorsque l'on rentre dans la pièce, le titre de l'oeuvre est affichée sur le mur en grand. Un ipad est installé au centre de la pièce sur un trépied et lorsque l'on s'approche de celui-ci une lumière au dessus de nous illumine notre emplacement. Des animations d'algues marines et de bulles montant vers le haut sont projetés usr les 4 murs en continu, le tout sur un fond bleu, comme si on était sous l'eau. Puis, on nous présente sur l'ipad 6 choix d'animaux marins en voie d'exctinction. En cliquant leurs images respectives, une description de l'animal apparait. Pendant ce temps, des projecteurs affichent sur les 4 murs des animations de ces animaux marins qui passent d'un côté à l'autre en nageant. On entend des sons ambiants étouffés qui rappellent ce que l'on entend sous l'eau et en plus, dès que les animaux passent dans l'animation, on entend les sons que reproduisent ceux-ci dans la réalité.
 
-<img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/Echomarine/medias/Echomarine_ipad.png" height="35%" width="35%" align="left">
+<img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/Echomarine/medias/Echomarine_ipad.png" height="23%" width="23%" align="left">
 
-<img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/Echomarine/medias/Echomarine_interaction_web_02.png" height="35%" width="35%" align="left">
+<img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/Echomarine/medias/Echomarine_interaction_web_02.png" height="23%" width="23%" align="left">
 
-<img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/Echomarine/medias/Echomarine_interaction_web.png" height="35%" width="35%" align="left">
+<img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/Echomarine/medias/Echomarine_interaction_web.png" height="23%" width="23%" align="left">
 
-<img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/Echomarine/medias/Echomarine_animation_projection.png" height="35%" width="35%" align="left">
+<img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/Echomarine/medias/Echomarine_animation_projection.png" height="23%" width="23%" align="left">
 
-<img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/Echomarine/medias/Echomarine_vue_ensemble2_03_23_23.png" height="35%" width="35%" align="left">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 *Vues d'ensemble de l'oeuvre et interactions:* https://youtu.be/VI3lG9Mg9D8 + https://youtube.com/shorts/gy3MdHDrB0c
 
@@ -80,7 +87,14 @@ Si l'oeuvre devait voyager, c'est par clé USB ou disque SSD externe que serait 
 
 <img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/Echomarine/medias/Echomarine_montage_sonore.png" height="35%" width="35%" align="left">
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 ## Éléments à la mise en exposition
