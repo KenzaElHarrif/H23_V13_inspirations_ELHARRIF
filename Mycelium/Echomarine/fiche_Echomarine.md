@@ -130,8 +130,20 @@ Si l'oeuvre devait voyager, c'est par clé USB ou disque SSD externe que serait 
 
 Lorsqu'on rentre dans la pièce, nous sommes comme submergés par un environnement bleu, marin et serain. L'ipad au centre attire notre attention, et une fois rendu à celui-ci, une lumière bleu s'allume juste au dessus de nous. Notre interaction avec cette oeuvre est simple, cliquer sur les images de l'ipad afin de faire apparaitre les animations. Tout ce qu'il reste à faire par la suite, c'est les observer et profiter de l'ambiante donnée, ainsi que réfléchir à notre impacte par rapport à ces animaux.
 
+*Vues d'ensemble de l'oeuvre et interactions (ce sont les mêmes vidéos qui rappellent l'expérience du spectateur et son interactivité):* https://youtu.be/VI3lG9Mg9D8 + https://youtube.com/shorts/gy3MdHDrB0c
+
 ## Appréciations
 
 * Ce que j'ai aimé: J'ai beaucoup aimé lorsqu'on s'approche de l'ipad et le spot de lumière s'allumait. Ça me rappelait un peu l'importance de notre impacte par rapport à la nature et son environnement, comme quoi c'est à cause de l'erreur humaine que ces animaux n'existeront sûrement plus très bientôt. J'ai trouvé le tout très calme et serain, je me suis vraiment sentie comme si j'étais sous l'eau. S'était très agrable à regarder et les petites animations étaient amusantes. J'aime beaucoup le fait que l'oeuvre permet à un large publique d'y avoir accès facilement, surtout que l'ipad est un objet facile avec lequel tous peuvent interagir.
 
 * Ce que j'ai moins aimé: J'aurais préféré plus de détails dans les décors d'arrière plans. On comprend facilement qu'il y a des algues et des bulles, mais rajouter un peu plus de détails tel que des petits poissons  ou même des déchets, ferait plus d'impacte sur notre questionnement par rapport à l'environnement et serait plus clair que texte écrit que nous en lisont seulement les premières lignes.
+
+## Médiagraphie
+
+Images et informations:
+
+* Collège Montmorency. (2022) *Projet de Préproductiom Echomarine* .TIM Montmorency. https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html
+
+Informations tirés de vidéos:
+
+* Echomarine 2023. (2023, 03 février) *Echomarine - Préproduction* [Vidéo]. YouTube. https://www.youtube.com/watch?v=aZDAxRJoc40&ab_channel=Echomarine2023
