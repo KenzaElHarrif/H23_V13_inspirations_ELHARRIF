@@ -12,7 +12,7 @@ Il s'agit d'une oeuvre de **type itinérante** et dont j'ai eu la chance d'en fa
 
 ## L'oeuvre
 
-<img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Derniere_Minute/Medias/Derniere_Minute_Centre_Phi_vue_ensemble.JPG" height="80%" width="80%">
+<img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Derniere_Minute/Medias/Derniere_Minute_Centre_Phi_vue_ensemble.JPG" height="100%" width="100%">
 
 <img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Derniere_Minute/Medias/AdirenM_ClaireB_artistes.JPG" height="50%" width="50%" align="left">
 
