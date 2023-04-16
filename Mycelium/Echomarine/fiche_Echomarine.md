@@ -134,16 +134,16 @@ Lorsqu'on rentre dans la pièce, nous sommes comme submergés par un environneme
 
 ## Appréciations
 
-* Ce que j'ai aimé: J'ai beaucoup aimé lorsqu'on s'approche de l'ipad et le spot de lumière s'allumait. Ça me rappelait un peu l'importance de notre impacte par rapport à la nature et son environnement, comme quoi c'est à cause de l'erreur humaine que ces animaux n'existeront sûrement plus très bientôt. J'ai trouvé le tout très calme et serain, je me suis vraiment sentie comme si j'étais sous l'eau. S'était très agrable à regarder et les petites animations étaient amusantes. J'aime beaucoup le fait que l'oeuvre permet à un large publique d'y avoir accès facilement, surtout que l'ipad est un objet facile avec lequel tous peuvent interagir.
+* **Ce que j'ai aimé:** J'ai beaucoup aimé lorsqu'on s'approche de l'ipad et le spot de lumière s'allumait. Ça me rappelait un peu l'importance de notre impacte par rapport à la nature et son environnement, comme quoi c'est à cause de l'erreur humaine que ces animaux n'existeront sûrement plus très bientôt. J'ai trouvé le tout très calme et serain, je me suis vraiment sentie comme si j'étais sous l'eau. S'était très agrable à regarder et les petites animations étaient amusantes. J'aime beaucoup le fait que l'oeuvre permet à un large publique d'y avoir accès facilement, surtout que l'ipad est un objet facile avec lequel tous peuvent interagir.
 
-* Ce que j'ai moins aimé: J'aurais préféré plus de détails dans les décors d'arrière plans. On comprend facilement qu'il y a des algues et des bulles, mais rajouter un peu plus de détails tel que des petits poissons  ou même des déchets, ferait plus d'impacte sur notre questionnement par rapport à l'environnement et serait plus clair que texte écrit que nous en lisont seulement les premières lignes.
+* **Ce que j'ai moins aimé:** J'aurais préféré plus de détails dans les décors d'arrière plans. On comprend facilement qu'il y a des algues et des bulles, mais rajouter un peu plus de détails tel que des petits poissons  ou même des déchets, ferait plus d'impacte sur notre questionnement par rapport à l'environnement et serait plus clair que texte écrit que nous en lisont seulement les premières lignes.
 
 ## Médiagraphie
 
-Images et informations:
+**Page de site web:**
 
 * Collège Montmorency. (2022) *Projet de Préproductiom Echomarine* .TIM Montmorency. https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html
 
-Informations tirés de vidéos:
+**Informations tirés de vidéos:**
 
 * Echomarine 2023. (2023, 03 février) *Echomarine - Préproduction* [Vidéo]. YouTube. https://www.youtube.com/watch?v=aZDAxRJoc40&ab_channel=Echomarine2023
