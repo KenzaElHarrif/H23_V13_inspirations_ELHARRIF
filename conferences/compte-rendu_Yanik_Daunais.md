@@ -1,13 +1,7 @@
 # Conception d'une oeuvre numérique dans toute sa splendeur.
 
-Yanik Daunais travail en tant que directeur générale et producteur d'oeuvres numériques et interactives pour la compagnie Halo Création. Il s'occupe principalement de la conception des oeuvres et de leur gestion. La conférence parle surtout des points importants du début jusqu'à la fin de la production d'une oeuvre numérique et interactive. Aussi, la conférence rapporte beaucoup de conseils aux futurs employés dans le domaine afin de pouvoir travailler efficacement et se créer des liens fiables avec des employeurs ou collègues de travail.
+Yanik Daunais travail en tant que directeur générale et producteur d'oeuvres numériques et interactives pour la compagnie Halo Création. Il s'occupe principalement de la conception des oeuvres et de leur gestion. La conférence parle surtout des points importants du début jusqu'à la fin de la production d'une oeuvre numérique et interactive. Tout au long de la conférence, Yanik Daunais a aussi partagé plusieurs conseils constructifs pour les futurs employés dans le domaine du multimédia.
 
-## Brainstorm et préproduction
+Monsieur Daunais a fait part des étapes à suivre pour créer une oeuvre. On commence avec un brainstorm, et on se pose les questions du Quoi, Qui et Comment. On doit penser à notre objectif, au publique cible et aussi à la mise en récit de l'oeuvre, ce qui sera présenté. Puis, vient ensuite la production. Il faut tout préparer et se poser beaucoup de questions avant de s'y prendre. Il faut penser au temps de présentation de l'oeuvre, si elle sera temporaire, permanante, itinérante. Puis les moyens techniques, quelles sont ses composantes. L'installation, il faut penser à tous les plans de bâtiment. Ensuite, le manuel d'opération, il faut tout documenter, prendre des photos, tout noter et rester propre. Enfin, il faut penser au budget, ce qui serait économique et écologique, afin d'avoir plus d'efficacité dans le projet.
 
-Avant la conception d'une oeuvre, il y a toujours un moment de réflexion. On fait ce que l'on appel un brainstorm afin d'y sortir toutes les idées qui nous passent par la tête. C'est même avec les idées les plus farfelues que l'on arrive à créer encore plus d'idées. Dans la préproduction d'une oeuvre, nous devons aussi réfléchir à trois points importants avant de débuter à la conception de l'oeuvre complète. Qui, quoi et comment. **Qui ?** est la question qui définit le public cible. **Quoi ?** est la question qui permet de définir nos objectifs, notre axe. **Comment ?** est la mise en récit 
-
-## La conception
-
-## Après ?
-
-## Conclusion
+Pour ma part, j'ai trouvé la conférence très constructive. Yanik Daunais a partagé des conseils, tel que rester propre dans son travail, rester organiser et toujours documenté et m'a fait comprendre l'importance des étapes mises en places pour la création d'une oeuvre numérique. Je trouve que en peu de temps, cette conférence aide beaucoup à se préparer pour les projets d'oeuvres numériques à venir.
