@@ -1,4 +1,4 @@
-# Conception d'une oeuvre numérique dans toute sa splendeur.
+# Conception d'une oeuvre numérique dans toute sa splendeur.** titre a changer
 
 Yanik Daunais travail en tant que directeur générale et producteur d'oeuvres numériques et interactives pour la compagnie Halo Création. Il s'occupe principalement de la conception des oeuvres et de leur gestion. La conférence parle surtout des points importants du début jusqu'à la fin de la production d'une oeuvre numérique et interactive. Tout au long de la conférence, Yanik Daunais a aussi partagé plusieurs conseils constructifs pour les futurs employés dans le domaine du multimédia.
 
