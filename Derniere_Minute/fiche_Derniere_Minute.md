@@ -22,11 +22,11 @@ L'oeuvre **Dernière Minute** a été créée par la compagnie **Adrien M & Clai
 
 L'oeuvre a été créée le **4 mai 2022** à la Halle Tropisme Montpellier (34)
 
-Dernière Minute est une **installation interactive** d'une durée de 30 minutes qui a pour but symbolique de représenter les premiers et derniers instants d'une vie.
+Dernière Minute est une **installation interactive, intérieure et contemplative** d'une durée de 30 minutes qui a pour but symbolique de représenter les premiers et derniers instants d'une vie.
 
 ### Description
 
-On se retrouve dans une pièce complètement fermé, dans le noir, avec un écran au centre. Au départ, une voix nous dit des choses à propos de la vie, elle est toute douce, puis les animations commencent. On peu interagir avec des particules blanches, des trainées de fumées et des lignes qui bougent au son de la musique. On peu marcher, courir, danser, s'asseoir et se coucher au sol. Le tout est appuyé d'une musique avant-gardiste composée de bruits de respirations, de soupirs, de bruits mécaniques, ainsi dit en rappel à un genre techno. L'oeuvre est comme un monde entre la vie et la mort. On est dans le noir et on interagit avec un environnement aucunnement naturel.
+On se retrouve dans une pièce complètement fermé, dans le noir, avec un écran au centre. Au départ, une voix nous dit des choses à propos de la vie, elle est toute douce, puis les animations commencent. On peu interagir avec des particules blanches, des trainées de fumées et des lignes qui bougent au son de la musique. Les animations projetées sont toujours blanches ou grises sur fond noir. Elles simulent de la fumée, des formes géométriques, de l'eau, des particules flottant et beaucoup d'autres animations. On peu marcher, courir, danser, s'asseoir et se coucher au sol. Le tout est appuyé d'une musique avant-gardiste composée de bruits de respirations, de soupirs, de bruits mécaniques, ainsi dit en rappel à un genre techno méchanique. L'oeuvre est comme un monde entre la vie et la mort. On est dans le noir et on interagit avec un environnement aucunnement naturel.
 
 <img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Derniere_Minute/Medias/Derniere_Minute_cartel_01.JPG" height="31%" width="31%" align="left">
 
@@ -130,14 +130,14 @@ On pouvait se promener partout, toucher, se coucher et s'asseoir au sol, par con
 * **Ce que j'ai moins aimé:**  À certains moments, il n'était pas clair si on pouvait intéragir avec le sol ou s'il ne s'agissait que d'un moment de projection. À plusieurs reprises, il y avait des particules qui bougeaient au sol et sur les murs, et parfois, même si ce n'était pas clair, quelqu'un bougeait et ces particules suivaient la personne. Mais aussi, des fois ces particules ne bougeaient pas du tout et s'était un peu ennuyeux de bouger et essayer d'interagir avec quelque chose qui ne répondait pas.
 
 ## Médiagraphie
+* PHI. (2007-2023) *Dernière Minute|Adrien M & Claire B*
+**Page de site web et images:**
 
-**Page de site web:**
+* PHI. (2007-2023) *Dernière Minute|Adrien M & Claire B* Centre Phi Expérience https://phi.ca/fr/evenements/derniere-minute/
 
-* https://phi.ca/fr/evenements/derniere-minute/
+* Adrien M & Claire B *Page d'acceuil* https://www.am-cb.net/
 
-* https://www.am-cb.net/
+* Adrien M & Claire B *À propos* https://www.am-cb.net/a-propos
 
-* https://www.am-cb.net/a-propos
-
-* https://www.am-cb.net/projets/derniere-minute
+* Adrien M & Claire B *Dernière Minute - Adrien M & Claire B* https://www.am-cb.net/projets/derniere-minute
 
