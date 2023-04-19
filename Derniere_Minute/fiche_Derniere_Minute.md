@@ -138,7 +138,8 @@ On pouvait se promener partout, toucher, se coucher et s'asseoir au sol, par con
 * **Ce que j'ai moins aimé:**  À certains moments, il n'était pas clair si on pouvait intéragir avec le sol ou s'il ne s'agissait que d'un moment de projection. À plusieurs reprises, il y avait des particules qui bougeaient au sol et sur les murs, et parfois, même si ce n'était pas clair, quelqu'un bougeait et ces particules suivaient la personne. Mais aussi, des fois ces particules ne bougeaient pas du tout et s'était un peu ennuyeux de bouger et essayer d'interagir avec quelque chose qui ne répondait pas.
 
 ## Médiagraphie
-* PHI. (2007-2023) *Dernière Minute|Adrien M & Claire B*
+
+
 **Page de site web et images:**
 
 * PHI. (2007-2023) *Dernière Minute|Adrien M & Claire B* Centre Phi Expérience https://phi.ca/fr/evenements/derniere-minute/
