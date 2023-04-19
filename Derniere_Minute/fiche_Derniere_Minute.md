@@ -22,11 +22,17 @@ L'oeuvre **Dernière Minute** a été créée par la compagnie **Adrien M & Clai
 
 L'oeuvre a été créée le **4 mai 2022** à la Halle Tropisme Montpellier (34)
 
-Dernière Minute est une **installation interactive, intérieure et contemplative** d'une durée de 30 minutes qui a pour but symbolique de représenter les premiers et derniers instants d'une vie.
+Dernière Minute est une **installation interactive et intérieure** d'une durée de 30 minutes qui a pour but symbolique de représenter les premiers et derniers instants d'une vie.
 
 ### Description
 
-On se retrouve dans une pièce complètement fermé, dans le noir, avec un écran au centre. Au départ, une voix nous dit des choses à propos de la vie, elle est toute douce, puis les animations commencent. On peu interagir avec des particules blanches, des trainées de fumées et des lignes qui bougent au son de la musique. Les animations projetées sont toujours blanches ou grises sur fond noir. Elles simulent de la fumée, des formes géométriques, de l'eau, des particules flottant et beaucoup d'autres animations. On peu marcher, courir, danser, s'asseoir et se coucher au sol. Le tout est appuyé d'une musique avant-gardiste composée de bruits de respirations, de soupirs, de bruits mécaniques, ainsi dit en rappel à un genre techno méchanique. L'oeuvre est comme un monde entre la vie et la mort. On est dans le noir et on interagit avec un environnement aucunnement naturel.
+On se retrouve dans une pièce complètement fermé, dans le noir, avec un écran au centre. Au départ, une voix nous dit des choses à propos de la vie, elle est toute douce, puis les animations commencent. On peu interagir avec des particules blanches, des trainées de fumées et des lignes qui bougent au son de la musique. Les animations projetées sont toujours blanches ou grises sur fond noir. Elles simulent de la fumée, des formes géométriques, de l'eau, des particules flottant et beaucoup d'autres animations de ce type expérimental. On peu marcher, courir, danser, s'asseoir et se coucher au sol. Le tout est appuyé d'une musique avant-gardiste composée de bruits de respirations, de soupirs, de bruits mécaniques, ainsi dit en rappel à un genre techno méchanique. Puis, de temps à autres, au sons de la musique, les lumières s'allumaient et s'étaignaient. L'oeuvre est comme un monde entre la vie et la mort. On est dans le noir et on interagit avec un environnement aucunnement naturel.
+
+### Fonction du dispositif
+
+Sur leur site et celui du Centre Phi, il y est indiqué que plusieurs performances de danses étaient présentés en même temps que les projections. On y comprend que l'interactivité avec l'oeuvre est très importante, et le présentiel du spectateur l'est tout autant. Il est aussi expliqué que l'idée de la métamorphose matériel et les questions plus existentielles y sont fortement représentés à travers des animations complexes et une ambiance saisissante. Est-ce le début ou la fin ? Chacun dans la pièce peut avoir sa propre idée de l'oeuvre sans non plus s'éloigner des thèmes expliqués dès le début.
+
+D'un côté scénographique, l'écran au centre rappelait presque une chute d'eau lorsque les animations se promenaient sur celui-ci. L'écran était semi transparent et on pouvait voir les autres personnes de l'autre côté. Si l'on regarde d'autres images de présentations dans diverses pays et musés, on peu observer que la disposition de l'écran est différente d'une place à l'autre. J'en déduit que les artistes laisse à l'établissement le droit d'installer l'oeuvre selon leur besoin ou selon leurs perceptions. Au Centre Phi, l'écran était sur le côté de la pièce, et les animations se promenaient partout sur les murs et le sol, et de temps à autre s'évaporaient.
 
 <img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Derniere_Minute/Medias/Derniere_Minute_cartel_01.JPG" height="31%" width="31%" align="left">
 
@@ -54,7 +60,7 @@ Il s'agit d'une grande pièce dont les murs sont cachés par des rideaux. Le sol
 
 ## Composantes
 
-Il doit surement seulement s'agir de la vidéo et du son de la projection, du logiciel et programme qui permettent de faire en sorte que l'oeuvre intéragie avec les gens. Sois l'oeuvre est arrivée avec une clé usb ou disque ssd, sinon peut être qu'elle serait même arrivée déjà installée dans l'ordinateur qui sera ensuite lié aux projecteurs du musé.
+Il doit sûrement s'agir de la vidéo et du son de la projection, du logiciel et programme qui permettent de faire en sorte que l'oeuvre intéragie avec les gens. Sois l'oeuvre est arrivée avec une clé usb ou disque ssd, sinon peut être qu'elle serait même arrivée déjà installée dans l'ordinateur qui sera ensuite lié aux projecteurs du musé.
 
 ## Éléments de mise en exposition
 
@@ -69,7 +75,7 @@ Il doit surement seulement s'agir de la vidéo et du son de la projection, du lo
 
 <img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Derniere_Minute/Medias/Derniere_Minute_composition_01_25_02_23.JPG" height="31%" width="31%" align="left">
 
-<img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Derniere_Minute/Medias/Derniere_Minute_composition_02_25_02_23.JPG" height="31%" width="31%" align="left">
+<img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Derniere_Minute/Medias/Derniere_Minute_composition_03_25_02_23.JPG" height="31%" width="31%" align="left">
 
 <img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Derniere_Minute/Medias/Derniere_Minute_composition_04_25_02_23.JPG" height="31%" width="31%" align="left">
 
@@ -125,7 +131,7 @@ On pouvait se promener partout, toucher, se coucher et s'asseoir au sol, par con
 
 ## Appréciations
 
-* **Ce que j'ai aimé:** J'ai adoré l'aspect d'interaction, ça inspire beaucoup aux artistes à faire de même. S'était amusant de voir les gens autour intéragirs différements. Certains s'allongeaient, couraient, sautaient. L'oeuvre ainsitait vraiment tout le monde à faire ce qu'ils voulaient. Il y avait même une personne qui s'était mise à danser juste parce que ça l'inspirait. Je me suis contantée seulement de marcher autour et d'observer les réactions des autres pour ma part. L'oeuvre donnait l'impression qu´à ce moment là, tout le monde avait quelque chose d´en commun et s´était d´être coincé dans un petit monde entre la vie et la mort. s´était très inspirant. S'était aussi très intéressant de voir comment les artistes pouvaient varier plusieurs interactions avec leurs différents graphiques.
+* **Ce que j'ai aimé:** J'ai adoré l'aspect d'interaction, ça inspire beaucoup aux artistes à faire de même. S'était amusant de voir les gens autour intéragirs différements. Certains s'allongeaient, couraient, sautaient. L'oeuvre insitait vraiment tout le monde à faire ce qu'ils voulaient. Il y avait même une personne qui s'était mise à danser juste parce que ça l'inspirait. Je me suis contantée seulement de marcher autour et d'observer les réactions des autres pour ma part. L'oeuvre donnait l'impression qu´à ce moment là, tout le monde avait quelque chose d´en commun et s´était d´être coincé dans un petit monde entre la vie et la mort. s´était très inspirant. S'était aussi très intéressant de voir comment les artistes pouvaient varier plusieurs interactions avec leurs différents graphiques.
 
 * **Ce que j'ai moins aimé:**  À certains moments, il n'était pas clair si on pouvait intéragir avec le sol ou s'il ne s'agissait que d'un moment de projection. À plusieurs reprises, il y avait des particules qui bougeaient au sol et sur les murs, et parfois, même si ce n'était pas clair, quelqu'un bougeait et ces particules suivaient la personne. Mais aussi, des fois ces particules ne bougeaient pas du tout et s'était un peu ennuyeux de bouger et essayer d'interagir avec quelque chose qui ne répondait pas.
 
