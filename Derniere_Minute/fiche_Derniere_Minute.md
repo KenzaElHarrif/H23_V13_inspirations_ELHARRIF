@@ -28,19 +28,39 @@ Dernière Minute est une **installation interactive et intérieure** d'une duré
 
 On se retrouve dans une pièce complètement fermé, dans le noir, avec un écran au centre. Au départ, une voix toute douce nous dit des choses à propos de la vie. Puis  les animations commencent. On peu interagir avec tout ce qui nous entour, excepté à quelques occasions. Les animations projetées sont toujours blanches ou grises sur fond noir. Elles simulent de la fumée, des formes géométriques, de l'eau, des particules flottant et beaucoup d'autres animations de ce type expérimental rappelant la nature. On peu marcher, courir, danser, s'asseoir et se coucher au sol. Le tout est appuyé d'une musique avant-gardiste composée de bruits de respirations, de soupirs, de bruits mécaniques, ainsi dit en rappel à un genre techno méchanique. Puis, de temps à autres, au sons de la musique, les lumières s'allument et s'étaignent. L'oeuvre est comme un monde entre la vie et la mort.
 
-### Mise en contexte, scénographie et mise en valeur
-
-Pour mise en contexte, Claire Bardainne explique qu'elle a vécue un moment qui a inspiré à la création de l'oeuvre, celle où elle a dû dispercer les cendres de son père dans la nature. Cet instant lui a fait rappelé plusieurs choses, comme celle d'un corps se mélangeant à la nature, mais encore à un moment, celui juste avant de franchir le seuil de la vie. De son souvenir, Claire Bardainne s'est inspiré du paysage qu'elle a observé ce jours là pour les animations de l'oeuvre. De l'eau rappelant l'océan, de la fumée qui rappèle les nuages, et les particules qui seraient une représentation de cendres qui se mélangent dans l'air. L'oeuvre est envoutante et appèle à ce qu'on intéragisse en se collant aux murs, comme si l'oeuvre veut qu'on s'intègre à elle. Claire Bardainne explique dans sa description de son souvenir qu'elle voyait son père devenir l'eau, les nuages et tout ce qui l'entoure à cause des cendres qui se sont dispersés partout dans l'air. Il y a donc derrière toute cette oeuvre, une idée de métamorphose matérielle.
-
-Il n'y a pas que l'interaction avec le spectateur qui rappèle l'importance des thèmes des corps se mélangeant au décors. En effet, le Centre Phi proposait des séances de performances où des danseurs/euses performaient devant un public et intéragissait avec la projection pour venir soutenir l'oeuvre. Malheureusement, je n'ai pas pu y assister.
-
-D'un côté scénographique, on peu voir en parcourant des galleries de photographies de l'oeuvre que les écrans centrals ne sont pas tout le temps placés de la même manière. À chaque emplacements différents, d'un musé à l'autre, l'écran a une position différente. Pour le Centre Phi, l'écran était placé à droite de l'entrée, un peu vers le centre, et on aurait dit que l'écran tombait comme une chute d'eau, effet qui s'accentuait avec les animations d'eau, de particules et de fumée. Mais, dans d'autres musés, difficile à dire lequel, l'écran pouvait être plus grand, tout au centre, et même incliné, pour donner un effet de ciel au lieu de chute d'eau. Dans tous les cas, l'écran a toujours pour but de supporter cette idée d'interaction, envoutement, qui invite le spectateur à en devenir presque l'oeuvre.
-
 <img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Derniere_Minute/Medias/Derniere_Minute_cartel_01.JPG" height="31%" width="31%" align="left">
 
 <img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Derniere_Minute/Medias/Derniere_Minute_cartel_02.JPG" height="31%" width="31%" align="left">
 
 <img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Derniere_Minute/Medias/Derniere_Minute_cartel_03.JPG" height="31%" width="31%" align="left">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+### Mise en contexte, scénographie et mise en valeur
+
+Pour mise en contexte, Claire Bardainne explique qu'elle a vécue un moment qui a inspiré à la création de l'oeuvre, celle où elle a dû dispercer les cendres de son père dans la nature. Cet instant lui a fait rappelé plusieurs choses, comme celle d'un corps se mélangeant à la nature, mais encore à un moment, celui juste avant de franchir le seuil de la vie. De son souvenir, Claire Bardainne s'est inspiré du paysage qu'elle a observé ce jours là pour les animations de l'oeuvre. De l'eau rappelant l'océan, de la fumée qui rappèle les nuages, et les particules qui seraient une représentation de cendres qui se mélangent dans l'air. L'oeuvre est envoutante et appèle à ce qu'on intéragisse en se collant aux murs, comme si l'oeuvre veut qu'on s'intègre à elle. Claire Bardainne explique dans sa description de son souvenir qu'elle voyait son père devenir l'eau, les nuages et tout ce qui l'entoure à cause des cendres qui se sont dispersés partout dans l'air. Il y a donc derrière toute cette oeuvre, une idée de métamorphose matérielle.
+
+<img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Derniere_Minute/Medias/Derniere_Minute_danse_2023.png" height="31%" width="31%" align="left">
+
+Il n'y a pas que l'interaction avec le spectateur qui rappèle l'importance des thèmes des corps se mélangeant au décors. En effet, le Centre Phi proposait des séances de performances où des danseurs/euses performaient devant un public et intéragissait avec la projection pour venir soutenir l'oeuvre. Malheureusement, je n'ai pas pu y assister.
+
+D'un côté scénographique, on peu voir en parcourant des galleries de photographies de l'oeuvre que les écrans centrals ne sont pas tout le temps placés de la même manière. À chaque emplacements différents, d'un musé à l'autre, l'écran a une position différente. Pour le Centre Phi, l'écran était placé à droite de l'entrée, un peu vers le centre, et on aurait dit que l'écran tombait comme une chute d'eau, effet qui s'accentuait avec les animations d'eau, de particules et de fumée. Mais, dans d'autres musés, difficile à dire lequel, l'écran pouvait être plus grand, tout au centre, et même incliné, pour donner un effet de ciel au lieu de chute d'eau. Dans tous les cas, l'écran a toujours pour but de supporter cette idée d'interaction, envoutement, qui invite le spectateur à en devenir presque l'oeuvre.
+
+<img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Derniere_Minute/Medias/Derniere_Minute_scenographie01_2023.png" height="31%" width="31%" align="left">
+
+<img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Derniere_Minute/Medias/Derniere_Minute_scenographie02_2023.png" height="31%" width="31%" align="left">
+
+<img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Derniere_Minute/Medias/Derniere_Minute_scenographie03_CentrePhi_2023.png" height="31%" width="31%" align="left">
 
 <br>
 <br>
@@ -140,7 +160,7 @@ On pouvait se promener partout, toucher, se coucher et s'asseoir au sol, par con
 ## Médiagraphie
 
 
-**Page de site web et images:**
+**Photographies et informations prise de sites web:**
 
 * PHI. (2007-2023) *Dernière Minute|Adrien M & Claire B* Centre Phi Expérience https://phi.ca/fr/evenements/derniere-minute/
 
