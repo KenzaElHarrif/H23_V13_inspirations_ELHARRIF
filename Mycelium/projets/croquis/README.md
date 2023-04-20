@@ -1,1 +1,1 @@
-Les schémas de chacunes des oeuvres.
+Les schémas, schémas de branchements, croquis en liens avec les oeuvres finissantes.
