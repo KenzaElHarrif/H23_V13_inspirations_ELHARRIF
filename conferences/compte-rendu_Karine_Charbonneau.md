@@ -2,12 +2,11 @@
 
 titre à changer**
 
-Intro: **Karine Charbonneau, travail pour Rafael Lozano-Hemmer à son studio Antimodular. Travail principalement des oeuvres d'art numérique et interactives. Sa conférence parlait du processus de gestion des oeuvres au studio, de la conception, à l'accord avec des musés aux festivaux, à l'emballage des oeuvres, documentation et finalement construction des oeuvres sur les sites de présentation. Le role de Karine est de vérifier, contacter les musés ou festivaux, organiser leurs départs de l'entrepot et s'assurer que le projet se construit bien, régler les problèmes, etc.**
+Karine Charbonneau, travail pour Rafael Lozano-Hemmer à son studio Antimodular. Elle travail principalement sur des oeuvres d'art numérique et interactives. Son rôle au studio est de vérifier les contactes, d'entrer en contacte avec les musés ou festivaux, d'organiser le départ des oeuvres dans d'autres pays ou lieux, de la documentation et aussi s'assurer du déroulement des projets au complets. Sa conférence parlait du processus de gestion des oeuvres dans l'environnement d'une compagnie, tel que Antimodular de Rafael Lozano-Hemmer.
+
+Karine Charbonneau a commencé
 
 Paragraphe 1: Les secteurs d'art
-
 Paragraphe 2: Les départements
-
 Paragraphe 3: La documentation
-
 Conclusion: Commentaires constructifs 
