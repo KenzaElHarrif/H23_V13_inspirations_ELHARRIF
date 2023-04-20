@@ -1,1 +1,1 @@
-Voici les notes prises par rapport à l'oeuvre
+Voici toutes les notes prises lors des visites en lien à l'oeuvre.
