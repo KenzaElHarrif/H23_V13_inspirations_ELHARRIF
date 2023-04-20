@@ -1,1 +1,1 @@
-Toutes les photos compilées ici.
+Toutes les images par rapport aux oeuvres finissantes sont compilées ici.
