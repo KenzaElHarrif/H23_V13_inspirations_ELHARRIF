@@ -2,7 +2,7 @@
 
 ## Exposition
 
-**Dernière Minute** est une oeuvre qui a été présenté au **Centre Phi**, précisément au **315 Rue Saint-Paul O, Montréal, QC H2Y 2A3**.
+**Dernière Minute** est une oeuvre qui a été présenté au **Centre Phi** entre le 9 novembre et le 5 mars, précisément au **315 Rue Saint-Paul O, Montréal, QC H2Y 2A3**.
 Il s'agit d'une oeuvre de **type itinérante** et dont j'ai eu la chance d'en faire l'expérience le **25 février 2023**.
 
 <img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Derniere_Minute/Medias/Derniere_Minute_affiche.JPG" height="40%" width="40%" align="left">
