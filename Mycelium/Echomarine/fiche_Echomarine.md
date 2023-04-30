@@ -31,9 +31,9 @@ L'exposition est présenté au **Collège Montmorency, 475 Bd de l'Avenir,** et 
 ## Oeuvre Echomarine
 
 **Echomarine** a été créée par les finissantes **Florence Lapierre, Natacha Abdallah, Tracy Gua et Maria Laura Coronel** au courant de l'année **2022 et 2023**.
-Il s'agit d'une oeuvre de type **interactive et immersive** qui a pour but de montrer les différentes espèces marines en voie d'exctinction.
+Il s'agit d'une oeuvre de type **interactive et immersive** qui a pour but de montrer les différentes espèces marines en voie d'extinction.
 
-Lorsque l'on rentre dans la pièce, le titre de l'oeuvre est affichée sur le mur en grand. Un ipad est installé au centre de la pièce sur un trépied et lorsque l'on s'approche de celui-ci une lumière au dessus de nous illumine notre emplacement. Des animations d'algues marines et de bulles montant vers le haut sont projetés usr les 4 murs en continu, le tout sur un fond bleu, comme si on était sous l'eau. Puis, on nous présente sur l'ipad 6 choix d'animaux marins en voie d'exctinction. En cliquant leurs images respectives, une description de l'animal apparait. Pendant ce temps, des projecteurs affichent sur les 4 murs des animations de ces animaux marins qui passent d'un côté à l'autre en nageant. On entend des sons ambiants étouffés qui rappellent ce que l'on entend sous l'eau et en plus, dès que les animaux passent dans l'animation, on entend les sons que reproduisent ceux-ci dans la réalité.
+Lorsque l'on rentre dans la pièce, le titre de l'oeuvre est affiché sur le mur en grand. Un iPad est installé au centre de la pièce sur un trépied et lorsque l'on s'approche de celui-ci une lumière au-dessus de nous illumine notre emplacement. Des animations d'algues marines et de bulles montant vers le haut sont projetés sur les 4 murs en continu, le tout sur un fond bleu, comme si on était sous l'eau. Puis, on nous présente sur l’iPad 6 choix d'animaux marins en voie d'extinction. En cliquant leurs images respectives, une description de l'animal apparait. Pendant ce temps, des projecteurs affichent sur les 4 murs des animations de ces animaux marins qui passent d'un côté à l'autre en nageant. On entend des sons ambiants étouffés qui rappellent ce que l'on entend sous l'eau et en plus, dès que les animaux passent dans l'animation, on entend les sons que reproduisent ceux-ci dans la réalité.
 
 <img src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/Echomarine/medias/Echomarine_ipad.png" height="23%" width="23%" align="left">
 
@@ -56,7 +56,7 @@ Lorsque l'on rentre dans la pièce, le titre de l'oeuvre est affichée sur le mu
 
 ## Mise en espace
 
-La salle est composée de 4 murs couverts de rideaux blancs, il y a un Ipas sur un trépied au centre de la pièce. Des projecteurs sont installés au plafond, ainsi que des haut-parleurs installés dans chaque coins de la pièce. Il y a aussi une lumière bleue installée au dessus du trépied à Ipad, au plafond.
+La salle est composée de 4 murs couverts de rideaux blancs, il y a un iPad sur un trépied au centre de la pièce. Des projecteurs sont installés au plafond, ainsi que des haut-parleurs installés dans chaque coin de la pièce. Il y a aussi une lumière bleue installée au-dessus du trépied à IPad, au plafond.
 <br>
 
 
@@ -99,15 +99,15 @@ Si l'oeuvre devait voyager, c'est par clé USB ou disque SSD externe que serait 
 
 ## Éléments à la mise en exposition
 
-* Ipad
+* IPad
 * ordinateur/programme
 * 4 projecteurs (un pour chacun des murs)
 * 4 haut-parleurs
-* Lumière LED bleu ou spot de lumière (au plafond juste au dessus de l'ipad)
-* Détecteur de mouvement (Au dessus de l'ipad ou juste devant)
-* Trépied à ipad
+* Lumière LED bleu ou spot de lumière (au plafond juste au-dessus de l’iPad)
+* Détecteur de mouvement (au-dessus de l’iPad ou juste devant)
+* Trépied à iPad
 * 4 rideaux de douches ou plus (pour les murs)
-* autres composantes (comme des fils, extansions, tape et autres.)
+* autres composantes (comme des fils, extensions, tape et autres.)
 
 <img width="30%" height="30%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/Echomarine/medias/Echomarine_composition1_2023-03-23.jpg">
 
@@ -128,15 +128,16 @@ Si l'oeuvre devait voyager, c'est par clé USB ou disque SSD externe que serait 
 
 ## Expérience
 
-Lorsqu'on rentre dans la pièce, nous sommes comme submergés par un environnement bleu, marin et serain. L'ipad au centre attire notre attention, et une fois rendu à celui-ci, une lumière bleu s'allume juste au dessus de nous. Notre interaction avec cette oeuvre est simple, cliquer sur les images de l'ipad afin de faire apparaitre les animations. Tout ce qu'il reste à faire par la suite, c'est les observer et profiter de l'ambiante donnée, ainsi que réfléchir à notre impacte par rapport à ces animaux.
+Lorsqu'on rentre dans la pièce, nous sommes comme submergés par un environnement bleu, marin et serein. L’iPad au centre attire notre attention, et une fois rendu à celui-ci, une lumière bleue s'allume juste au-dessus de nous. Notre interaction avec cette oeuvre est simple, cliquer sur les images de l’iPad afin de faire apparaitre les animations. Tout ce qu'il reste à faire par la suite, c'est les observer et profiter de l'ambiante donnée, ainsi que réfléchir à notre impacte par rapport à ces animaux.
 
 *Vues d'ensemble de l'oeuvre et interactions (ce sont les mêmes vidéos qui rappellent l'expérience du spectateur et son interactivité):* https://youtu.be/VI3lG9Mg9D8 + https://youtube.com/shorts/gy3MdHDrB0c
 
 ## Appréciations
 
-* **Ce que j'ai aimé:** J'ai beaucoup aimé lorsqu'on s'approche de l'ipad et le spot de lumière s'allumait. Ça me rappelait un peu l'importance de notre impacte par rapport à la nature et son environnement, comme quoi c'est à cause de l'erreur humaine que ces animaux n'existeront sûrement plus très bientôt. J'ai trouvé le tout très calme et serain, je me suis vraiment sentie comme si j'étais sous l'eau. S'était très agrable à regarder et les petites animations étaient amusantes. J'aime beaucoup le fait que l'oeuvre permet à un large publique d'y avoir accès facilement, surtout que l'ipad est un objet facile avec lequel tous peuvent interagir.
+* **Ce que j'ai aimé:** J'ai beaucoup aimé lorsqu'on s'approche de l’iPad et le spot de lumière s'allumait. Ça me rappelait un peu l'importance de notre impacte par rapport à la nature et son environnement, comme quoi c'est à cause de l'erreur humaine que ces animaux n'existeront sûrement plus très bientôt. J'ai trouvé le tout très calme et serein, je me suis vraiment sentie comme si j'étais sous l'eau. S'était très agréable à regarder et les petites animations étaient amusantes. J'aime beaucoup le fait que l'oeuvre permet à un large public d'y avoir accès facilement, surtout que l’iPad est un objet facile avec lequel tous peuvent interagir.
 
-* **Ce que j'ai moins aimé:** J'aurais préféré plus de détails dans les décors d'arrière plans. On comprend facilement qu'il y a des algues et des bulles, mais rajouter un peu plus de détails tel que des petits poissons  ou même des déchets, ferait plus d'impacte sur notre questionnement par rapport à l'environnement et serait plus clair que texte écrit que nous en lisont seulement les premières lignes.
+* **Ce que j'ai moins aimé:** J'aurais préféré plus de détails dans les décors d'arrière plans. On comprend facilement qu'il y a des algues et des bulles, mais rajouter un peu plus de détails tel que des petits poissons ou même des déchets, ferait plus d'impact sur notre questionnement par rapport à l'environnement et serait plus clair qu’un texte écrit dont nous en lisons seulement les premières lignes.
+
 
 ## Médiagraphie
 
