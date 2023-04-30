@@ -9,7 +9,7 @@
 
 ## Projet
 
-Il s'agit d'une installation interactive composé de 4 murs où des créatures marines sont projetées. Au centre de la pièce, il y a un ipad et lorsque l'on clique sur les images des animaux marins, des animations de ceux-ci sont projetés sur les murs.
+Il s'agit d'une installation interactive composé de 4 murs où des créatures marines sont projetées. Au centre de la pièce, il y a un iPad et lorsque l'on clique sur les images des animaux marins, des animations de ceux-ci sont projetés sur les murs.
 
 ## Lien avec Mycélium
 
@@ -63,13 +63,13 @@ Collège Montmorency. (2022) *Projet de Préproductiom Echomarine* .TIM Montmore
 
 ## Technologie
 
-VCV Rack 2: Il s'agit d'un synthétiseur modulaire analogique virtuel.En d'autres mots, c'est une plateforme qui permet de venir modifier des sons à l'aide de plusieurs logiciels.
+VCV Rack 2: Il s'agit d'un synthétiseur modulaire analogique virtuel. En d'autres mots, c'est une plateforme qui permet de venir modifier des sons à l'aide de plusieurs logiciels.
 
 ## Expérience
 
 *Vidéo Echomarine*: https://youtube.com/shorts/gy3MdHDrB0c
 
-Le projet a un effet relaxant, calme et serain. Nous sommes comme plongés sous l'eau. Partout autour de nous, l'environnement créé par les images projetés, font en sorte que nous sommes envahis par la couleur bleu, qui a un effet calmant. La musique est tout aussi relaxante. Le projet réussi à attirer notre attention sur l'importance de la protection de ces animaux.
+Le projet a un effet relaxant, calme et serein. Nous sommes comme plongés sous l'eau. Partout autour de nous, l'environnement créé par les images projetés, font en sorte que nous sommes envahis par la couleur bleu, qui a un effet calmant. La musique est tout aussi relaxante. Le projet réussi à attirer notre attention sur l'importance de la protection de ces animaux.
 
 # Edria
 
@@ -88,7 +88,7 @@ Edria est une installation interactive et lumineuse. Il s'agit d'une tour qui es
 
 ## Lien avec Mycélium
 
-L'installation semble rappeler la dualité entre la société et la nature en y imposant des structures interactives qui intéragissent avec les gens. Le lien avec Mycelium est qu'il s'agit d'un parcour lumineux avec des détails de nature.
+L'installation semble rappeler la dualité entre la société et la nature en y imposant des structures interactives qui interagissent avec les gens. Le lien avec Mycelium est qu'il s'agit d'un parcours lumineux avec des détails de nature.
 
 ## Support visuel
 
@@ -143,7 +143,7 @@ FL Studio: Il s'agit d'un logiciel de production de musique et sons ambiants.
 
 ## Expérience
 
-Edria nous a fait agir de manière amusante, nous nous sommes tous rapprochés les uns des autres et l'installation s'est mise à jouer de la musique et à s'illuminer, cela nous a suciter des sourirs et on a même dansés. La musique était palpitante et s'était vraiment beau de voir notre environnement agir ainsi lors de notre passage.
+Edria nous a fait agir de manière amusante, nous nous sommes tous rapprochés les uns aux autres et l'installation s'est mise à jouer de la musique et à s'illuminer, cela nous a susciter des sourires et on a même dansés. La musique était palpitante et s'était vraiment beau de voir notre environnement agir ainsi lors de notre passage.
 
 <img width="23%" height="23%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/projets/medias/Edria_vue_ensemble_2023-03-23.jpg">
 
@@ -179,7 +179,7 @@ Luma sol est une installation interactive où le spectateur doit pédaler un vé
 
 ## Lien avec Mycélium
 
-Ce projet montre l'importance de la nature et l'urgence du changement climatique à travers une installation interactive, donc le spectateur va lui même activer la présentation en pédalant un vélo. Le lien avec Mycelium montre donc, encore une fois, la nature illuminée grâce à une installation technologique et à pour but de faire prendre concience au spectateur des urgences et difficultés en lien avec l'environnement.
+Ce projet montre l'importance de la nature et l'urgence du changement climatique à travers une installation interactive, donc le spectateur va lui-même activer la présentation en pédalant un vélo. Le lien avec Mycelium montre donc, encore une fois, la nature illuminée grâce à une installation technologique et à pour but de faire prendre conscience au spectateur des urgences et difficultés en lien avec l'environnement.
 
 ## Support visuel
 
@@ -219,11 +219,11 @@ Collège Montmorency. (2022) *Projet de Préproductiom Luma Sol* .TIM Montmorenc
 
 ## Technologie
 
-Madmapper: Il s'agit d'un logiciel qui permet de travailler la vidéo dans l'espace. Cette application est importante pour les installations interactives étant donné qu'elle va controler tout ce qui est en lien aux lumières (LEDS).
+Madmapper: Il s'agit d'un logiciel qui permet de travailler la vidéo dans l'espace. Cette application est importante pour les installations interactives étant donné qu'elle va contrôler tout ce qui est en lien aux lumières (LEDS).
 
 ## Expérience
 
-Luma Sol est une expérience qui doit se vivre le soir, et non le jour, étant donné que les lumières dans l'arbre sont moins visibles. Mais sinon, il est amusant de voir notre impacte sur l'oeuvre. L'oeuvre est un peu épuisante étant donné que ce n'est pas tout le monde qui aurait envie de pédaler un vélo. Aussi, il est dopmmage que ce n'est pas non plus tout le monde qui peut y avoir accès.
+Luma Sol est une expérience qui doit se vivre le soir, et non le jour, étant donné que les lumières dans l'arbre sont moins visibles. Mais sinon, il est amusant de voir notre impact sur l'oeuvre. L'oeuvre est un peu épuisante étant donné que ce n'est pas tout le monde qui aurait envie de pédaler un vélo. Aussi, il est dommage que ce n'est pas non plus tout le monde qui peut y avoir accès.
 
 <img width="23%" height="23%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/projets/medias/Luma_Sol_vue_ensemble_2023-03-23.jpg">
 
@@ -251,11 +251,11 @@ Luma Sol est une expérience qui doit se vivre le soir, et non le jour, étant d
 
 ## Projet
 
-Nexum est un passage interactif qui traverse le petit parc en avant du Cégep Montmorency. Plusieurs petites tours sont dressés et à chaque fois que l'on passe devant celles-ci, des sons calmes sortes de celles-ci. De plus, il y a quelques codes QR et lorsqu'on les scannes, ceux-ci nous dirigent vers une animation.
+Nexum est un passage interactif qui traverse le petit parc en avant du Cégep Montmorency. Plusieurs petites tours sont dressées et à chaque fois que l'on passe devant celles-ci, des sons calmes sortes de celles-ci. De plus, il y a quelques codes QR et lorsqu'on les scanne, ceux-ci nous dirigent vers une animation.
 
 ## Lien avec Mycélium
 
-Nexum a pour but de montrer un environement en lien avec la nature et qui donne cet air serain à chaque fois que l'on passe à côté des tours. Ce qui rappel lien avec Mycélium.
+Nexum a pour but de montrer un environnement en lien avec la nature et qui donne cet air serein à chaque fois que l'on passe à côté des tours. Ce qui rappel lien avec Mycélium.
 
 ## Support visuel
 
@@ -302,7 +302,7 @@ Le code QR: Le code QR est un code que l'on scan avec l'appareil photo de notre 
 
 ## Expérience
 
-Les caméras ne détectaient pas bien les mouvements alors l'instalation faisait peu d'interaction avec le spectateur, mais sinon, les sons et les lumières avaient un effet serain, ce qui semblait être le but principale de l'oeuvre.
+Les caméras ne détectaient pas bien les mouvements alors l'installation faisait peu d'interaction avec le spectateur, mais sinon, les sons et les lumières avaient un effet serein, ce qui semblait être le but principal de l'oeuvre.
 
 # Zodie Gal
 
@@ -312,11 +312,11 @@ Les caméras ne détectaient pas bien les mouvements alors l'instalation faisait
 
 ## Projet
 
-Il s'agit d'un court et simple jeu vidéo où le spectateur doit cliquer sur les éléments déclancheurs afin d'en dévoiler l'histoire. On suit l'histoire d'une adolescante qui, en traversant des moments difficiles, elle doit tuer des monstres du Zodiac.
+Il s'agit d'un court et simple jeu vidéo où le spectateur doit cliquer sur les éléments déclencheurs afin d'en dévoiler l'histoire. On suit l'histoire d'une adolescente qui, en traversant des moments difficiles, elle doit tuer des monstres du Zodiac.
 
 ## Lien avec Mycélium
 
-Le lien avec Mycélium n'est pas très clair, mais à mon avis, dans plusieurs des images présentés dans l'oeuvre, on retrouve de la végétation et des monstres qui rappellent un peu les différents champignons que l'on retrouve dans la nature.
+Le lien avec Mycélium n'est pas très clair, mais à mon avis, dans plusieurs des images présentées dans l'oeuvre, on retrouve de la végétation et des monstres qui rappellent un peu les différents champignons que l'on retrouve dans la nature.
 
 ## Support visuel
 
@@ -355,7 +355,7 @@ G Develop 5: Il s'agit d'une plateforme de développement jeux vidéo open sourc
 
 ## Expérience
 
-La musique était très mystérieuse et l'éclairage et la mise en espace aidaient à rentrer dans l'ambiance du jeu. Par contre, il n'était pas très clair au départ comment le jeu fonctionnait, on cliquait un peu partout afin de trouver la solution au mystère.
+La musique était très mystérieuse et l'éclairage et la mise en espace aidaient à rentrer dans l'ambiance du jeu. Cependant, il n'était pas très clair au départ comment le jeu fonctionnait, on cliquait un peu partout afin de trouver la solution au mystère.
 
 <img width="23%" height="23%" align="left" src="https://github.com/KenzaElHarrif/H23_V13_inspirations_ELHARRIF/blob/main/Mycelium/projets/medias/Zodie_Gal_vue_ensemble1_2023-03-23.jpg">
 
