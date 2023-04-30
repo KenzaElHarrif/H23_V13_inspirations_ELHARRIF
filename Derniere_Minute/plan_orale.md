@@ -41,6 +41,6 @@
 * Oeuvre interactive aux thèmes de la vie, la mort, le temps qui s'étire, les corps physiques, mécaniques, la nature, le tout se mélangeant. 
 
 
-* Élément inspirant:
+**Élément inspirant, critique:**
 * Aimé: avoir cette liberté de faire ce qu'on voulait dans l'espace donné. La musique et les animations. Très beau à observer.
 * Moins aimé: Passe drôlement vite, aurait pu faire l'expérience un peu plus longue (rapport qualité prix). Parfois animations n'interagissaient pas, apportait un peu de confusion. Très étourdissant.
