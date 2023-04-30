@@ -37,7 +37,7 @@
 
 # Conclusion
 
-* Rappel des aspects présentés:
+**Rappel des aspects présentés:**
 * Oeuvre interactive aux thèmes de la vie, la mort, le temps qui s'étire, les corps physiques, mécaniques, la nature, le tout se mélangeant. 
 
 
